@@ -1,0 +1,1001 @@
+﻿Complaint_Text,Label
+"Unit Fails to Start. Power is on, but drum won't turn over. Checked fuses, all OK.",QUALITY_ISSUE
+Machine leaking water heavily from the bottom-front during the spin cycle. Seal appears compromised.,QUALITY_ISSUE
+"E40 error code constantly appears, door is locked. Customer cannot open after cycle finishes.",QUALITY_ISSUE
+No hot water filling. Heating element continuity check is open circuit. Needs replacement.,QUALITY_ISSUE
+Extreme noise and vibration during high-speed spin. Suspect drum bearing failure.,QUALITY_ISSUE
+"Unit vibrates excessively, seems to be walking across the floor. Customer claims it was level.",NON_QUALITY_ISSUE
+Clothes consistently come out with white powdery residue. Customer uses large amount of low-grade powder.,NON_QUALITY_ISSUE
+Odor inside the drum. Advised customer to run a maintenance wash cycle and clean the door seal.,NON_QUALITY_ISSUE
+Water won't drain completely. Found large build-up of lint and coins obstructing the pump filter.,NON_QUALITY_ISSUE
+"Error F08 displayed. Checked manual, indicates door is not correctly closed. Customer confirms it was not latched hard.",NON_QUALITY_ISSUE
+The pump is running continuously but no water is exiting. Drain hose is incorrectly installed too high.,NON_QUALITY_ISSUE
+"P-Board flashing rapidly, no display text. Unit completely dead after a power surge event.",QUALITY_ISSUE
+Drum is scratching the stainless steel tub. Appears to be a spider/suspension arm breakage.,QUALITY_ISSUE
+Cycle stops mid-wash (around 20 minutes) without warning. No error code logged.,QUALITY_ISSUE
+Customer complaint of clothes being ripped. Found sharp burr on the inside of the drum perforation.,QUALITY_ISSUE
+"Unit stopped midway, no power to the motor. Motor control board (MCB) has visible burn marks.",QUALITY_ISSUE
+Customer called because the machine won't start when they overload the drum past the maximum line.,NON_QUALITY_ISSUE
+"Water pressure too low, takes forever to fill. Checked main water tap, only partially open.",NON_QUALITY_ISSUE
+Machine smells burnt during drying cycle (washer-dryer combi). Lint filter completely blocked with fuzz.,NON_QUALITY_ISSUE
+Customer requesting service because the rubber feet wore down and need replacing.,NON_QUALITY_ISSUE
+Faucet is leaking at the water inlet connection. Customer used old hose without replacing the rubber washer.,NON_QUALITY_ISSUE
+Detergent dispenser is blocked/sticky. Advised customer to use liquid instead of hard block detergent.,NON_QUALITY_ISSUE
+"Drain cycle failure error C3. Cleared sensor, found high level of limescale on the heating element.",NON_QUALITY_ISSUE
+The digital display is pixelated and unreadable. Faulty LCD screen component.,QUALITY_ISSUE
+"Excessive foaming/suds, machine pauses cycle. Customer admitted adding fabric softener directly to the drum.",NON_QUALITY_ISSUE
+"Drum spins, but only very slowly. Tachometer feedback signal inconsistent.",QUALITY_ISSUE
+Customer complaint: no sound when the wash cycle finishes. Buzzer component is internally broken.,QUALITY_ISSUE
+Water ingress to motor housing. Defective main tub seal caused water to drip onto the drive belt.,QUALITY_ISSUE
+"Machine turns off immediately after selection. Checked power, internal harness short on the main loom.",QUALITY_ISSUE
+Door handle snapped clean off the housing while trying to open. Plastic fatigue failure.,QUALITY_ISSUE
+"Unit vibrates heavily, but legs are level. Found packaging bolts still installed in the back of the unit.",NON_QUALITY_ISSUE
+Clothes still soaking wet after final spin. Customer only uses the 'Quick Wash 15min' setting with heavy towels.,NON_QUALITY_ISSUE
+Customer reports machine sometimes pauses and restarts. Low voltage supply on the power line confirmed.,NON_QUALITY_ISSUE
+Filter is completely missing from the drain pump housing. Customer removed it for 'better drainage'.,NON_QUALITY_ISSUE
+Service call for a replacement drain hose that was damaged during a house move.,NON_QUALITY_ISSUE
+Machine will not reach target temperature. Customer is using cold fill only with the 'Eco 20°C' setting.,NON_QUALITY_ISSUE
+No water entering the unit. Found the small mesh filter in the fill valve completely blocked with sand/debris.,NON_QUALITY_ISSUE
+Error C7: Drain problem. Drain pump impeller seized due to manufacturing debris inside the housing.,QUALITY_ISSUE
+"Unit shows ""Door Open"" error when door is clearly shut. Defective door interlock switch mechanism.",QUALITY_ISSUE
+Rust spots appearing on the stainless steel drum lip after only 6 months of use. Poor material quality.,QUALITY_ISSUE
+Machine stuck in infinite rinse cycle. Software logic loop error detected on the latest firmware version.,QUALITY_ISSUE
+Loud grinding noise during wash. Main motor pulley cracked and slipping on the belt.,QUALITY_ISSUE
+Clothes are coming out smelling metallic. Internal rubber hose is dissolving/degrading into the water.,QUALITY_ISSUE
+Water continuously filling and draining at the same time. Failed pressure sensor component.,QUALITY_ISSUE
+Unit stopped with flashing light. Found customer using industrial-strength bleach which corroded the internal pipework.,NON_QUALITY_ISSUE
+Clothes are damaged. Found a pair of keys left in a pocket that snagged fabric during spin.,NON_QUALITY_ISSUE
+Customer states machine stopped with E35 error. Power cable was loosely plugged into the wall socket.,NON_QUALITY_ISSUE
+Water won't fill. Checked water inlet. Customer's internal stopcock is completely closed.,NON_QUALITY_ISSUE
+The machine is constantly beeping. Customer has the 'Child Lock' activated and forgot the procedure to disable it.,NON_QUALITY_ISSUE
+Technical call to install a new machine. Old one was working fine.,NON_QUALITY_ISSUE
+Machine will not fully power on. Main control board is completely unresponsive (dead-on-arrival).,QUALITY_ISSUE
+"Drum not rotating at all, motor hums loudly. Capacitor failure in the motor circuit.",QUALITY_ISSUE
+Door lock indicator light flashes rapidly but door does not secure. Faulty solenoid in the door lock assembly.,QUALITY_ISSUE
+Unit intermittently leaks small amounts from the drain pump connection. Casing joint not sealed correctly at factory.,QUALITY_ISSUE
+"Machine is burning clothes during the dry cycle. Thermal sensor is giving incorrect readings, causing overheat.",QUALITY_ISSUE
+Excessive vibration in the drum. Counterweights are loose from the main drum assembly.,QUALITY_ISSUE
+Display lights are dimmed/flickering. Backlight LED array on the fascia board is failing.,QUALITY_ISSUE
+Machine tripping the main breaker after 5 minutes of heating. Short circuit in the wiring near the heater terminal.,QUALITY_ISSUE
+Clothes are coming out slimy. Customer using too much homemade eco-friendly detergent with poor suds control.,NON_QUALITY_ISSUE
+Machine stopped. The laundry room floor drain was backed up and flooded the area.,NON_QUALITY_ISSUE
+Customer reports E5 error. Error indicates detergent drawer is not shut. Customer confirms it was left ajar.,NON_QUALITY_ISSUE
+Drain hose split at the back due to friction against the wall. Replacement needed due to wear/tear.,NON_QUALITY_ISSUE
+Clothes are not clean. Customer uses a heavily soiled cloth to wipe the drum before putting in clothes.,NON_QUALITY_ISSUE
+"Water is left in the tub after cycle. Technician found a child's toy stuck in the drain filter, blocking flow.",NON_QUALITY_ISSUE
+Customer states cycle times are much longer than expected. Low household water pressure slowing fill rate.,NON_QUALITY_ISSUE
+Machine is only running in cold water. Customer forgot to turn on the hot water tap after moving.,NON_QUALITY_ISSUE
+"Drum bearing failure, making a high-pitched metallic shriek during spin.",QUALITY_ISSUE
+"Pressure switch not reading correctly, causing unit to overfill and leak from the soap drawer.",QUALITY_ISSUE
+"Water filling but immediately draining out. Anti-siphon valve is defective, causing a constant siphoning effect.",QUALITY_ISSUE
+Control panel unresponsive to touch inputs. Faulty membrane/touch sensor layer on the PCB.,QUALITY_ISSUE
+Door latch is loose and needs minor adjustment to catch properly.,QUALITY_ISSUE
+Machine stops with E20 error. Pump runs but water level sensor stuck high. Faulty level sensor.,QUALITY_ISSUE
+"Clothes are covered in black grease. Drum seal failed, allowing lubricating grease from the bearing shaft to enter the tub.",QUALITY_ISSUE
+Motor brushes worn down to minimum. Unit is 6 months old. Premature brush failure due to high RPM manufacturing defect.,QUALITY_ISSUE
+Customer complaint of clothes shrinking. Advised on proper temperature selection for delicate fabrics.,NON_QUALITY_ISSUE
+Unit fails to spin. Customer uses the 'No Spin' option frequently and forgot to change it.,NON_QUALITY_ISSUE
+Service requested for replacement power cord after it was chewed by a pet.,NON_QUALITY_ISSUE
+Small leak from the air gap/vent on the drain line. Drain hose pushed too far into the standpipe.,NON_QUALITY_ISSUE
+Clothes are extremely wrinkled. Advised customer to remove clothes immediately after cycle finishes.,NON_QUALITY_ISSUE
+"Machine reporting high vibration. Technician confirmed it was installed on a slick, uneven tile floor without anti-vibration pads.",NON_QUALITY_ISSUE
+"Timer counts down but drum doesn't move. Broken drive belt, clearly visible wear and tear.",NON_QUALITY_ISSUE
+Water is backflowing into the drum after drain cycle. Faulty non-return valve on the drain pump.,QUALITY_ISSUE
+Excessive consumption of water. Inlet flow meter component is sending wrong pulse signals to the PCB.,QUALITY_ISSUE
+Drum has visible rust damage inside. Poor quality steel used for the drum shell.,QUALITY_ISSUE
+"Intermittent power failure. Internal EMI filter board is faulty, causing random shutdowns.",QUALITY_ISSUE
+Loud clicking noise when door is opening. Door hinge is misaligned from the factory assembly.,QUALITY_ISSUE
+Drain hose keeps falling out of the standpipe. Customer failed to secure it with the provided retainer clip.,NON_QUALITY_ISSUE
+Customer confused by the different wash cycles. Requested a tutorial on the different program options.,NON_QUALITY_ISSUE
+Machine vibrates heavily. Technician found large rocks/debris in the drum from a previous construction wash.,NON_QUALITY_ISSUE
+Unit displaying 'Lid Open' on a top-loader. The safety switch is jammed with a small clothing item.,NON_QUALITY_ISSUE
+Machine leaking soapy water. Customer using double the recommended amount of detergent for every load.,NON_QUALITY_ISSUE
+Water hammer noise on fill cycle. Customer needs to install a water hammer arrestor on their plumbing line.,NON_QUALITY_ISSUE
+Customer reports machine only accepting small loads. Found the scale is set to maximum sensitivity.,NON_QUALITY_ISSUE
+Machine making a high-pitched whine. Low oil in the gear box due to an internal seal leak.,QUALITY_ISSUE
+Faulty cold water solenoid valve stuck open. Water continuously fills the drum even when powered off.,QUALITY_ISSUE
+Main power button physically stuck in the 'on' position. Poor quality switch mechanism failure.,QUALITY_ISSUE
+Machine intermittently refuses to heat. Wiring harness to the heater relay is loose due to vibration.,QUALITY_ISSUE
+"Unit stops with error H1. Checked tech manual, points to a faulty communication chip on the main PCB.",QUALITY_ISSUE
+Clothes still dirty. Customer confirmed they only use a single rinse cycle for all loads.,NON_QUALITY_ISSUE
+Technician reports faulty component code F7. Found the cable connecting the motor to the MCB is frayed.,QUALITY_ISSUE
+Loud grinding from the motor housing. Rotor shaft is cracked near the stator coil mount.,QUALITY_ISSUE
+Customer claims machine is dead. Technician found the external circuit breaker had tripped.,NON_QUALITY_ISSUE
+E50 error displayed. Found the drive belt is heavily frayed and slipping due to old age (7 years).,NON_QUALITY_ISSUE
+The detergent drawer is permanently stained blue/green. Advised customer on proper cleaning frequency.,NON_QUALITY_ISSUE
+"Water heater element failure, confirmed no continuity. Heater replacement required.",QUALITY_ISSUE
+Unit leaks from the soap dispenser area only during initial fill. Defective water jet in the housing.,QUALITY_ISSUE
+Customer complains of poor wash results. Machine is consistently under-loaded for the selected cycle.,NON_QUALITY_ISSUE
+"Machine makes a ""thumping"" sound at low speed. Found a small rock stuck between the inner and outer drum.",NON_QUALITY_ISSUE
+Door opens during a spin cycle. Door interlock solenoid is weak and fails to latch under load.,QUALITY_ISSUE
+"Fails to spin fast. Tacho sensor harness has a cold solder joint, causing intermittent speed readings.",QUALITY_ISSUE
+"Installation issue: Drain hose is lower than the water level in the drain pipe, causing constant backwash.",NON_QUALITY_ISSUE
+Clothes smell burnt after drying. Customer never cleans the lint filter screen.,NON_QUALITY_ISSUE
+Machine shuts down immediately when the motor tries to draw power. Motor winding is internally shorted.,QUALITY_ISSUE
+"Customer using non-HE detergent, resulting in excessive suds and cycle time extension.",NON_QUALITY_ISSUE
+The rubber boot seal has a tear. Defective rubber quality caused premature tear.,QUALITY_ISSUE
+Machine displays error E1. Customer did not turn on the water tap after basement cleaning.,NON_QUALITY_ISSUE
+Control panel flashes error code C9. Faulty memory chip on the main board causing configuration loss.,QUALITY_ISSUE
+"Water level sensor stuck high. Unit continues to fill, overflowing the drum.",QUALITY_ISSUE
+"Unit shakes violently, even with small loads. Technician found two suspension springs were missing.",QUALITY_ISSUE
+Detergent drawer keeps clogging. Advised customer to dilute fabric softener before use.,NON_QUALITY_ISSUE
+Clothes are severely wrinkled. Customer leaves clothes sitting in the drum for hours after cycle completion.,NON_QUALITY_ISSUE
+Machine is noisy during agitation. Foreign objects (coins) stuck inside the pump inlet hose.,NON_QUALITY_ISSUE
+"Machine won't drain. Pump runs, but no water moves. Impeller has broken fins from the factory molding.",QUALITY_ISSUE
+Machine leaks from the back during filling. Faulty inlet valve assembly with a hairline crack in the plastic body.,QUALITY_ISSUE
+Unit is dead. Customer plugged machine into an ungrounded extension cord which fried the noise filter.,NON_QUALITY_ISSUE
+"Customer claims clothes are still soapy. Checked machine, customer using the 'Rinse Hold' feature.",NON_QUALITY_ISSUE
+Loud clicking noise when the machine is paused. Faulty door release solenoid mechanism.,QUALITY_ISSUE
+Clothes are ripped in small holes. Customer washes delicate items with heavy zippers/buttons in the same load.,NON_QUALITY_ISSUE
+Main drum bearing failed after 18 months. Bearing cage shattered due to poor material specification.,QUALITY_ISSUE
+Display panel is blank. Power supply section on the display PCB has failed components.,QUALITY_ISSUE
+Customer reports the lid will not close. Small towel piece stuck in the lid lock mechanism.,NON_QUALITY_ISSUE
+Drain hose is cracked near the connection. Old age and chemical exposure caused material degradation.,NON_QUALITY_ISSUE
+Machine fills with water but then immediately drains. Faulty anti-siphon valve assembly.,QUALITY_ISSUE
+"Unit shakes violently. Technician found the concrete counterweights were poorly secured, rattling loose.",QUALITY_ISSUE
+Customer complains of a musty smell. Advised on cleaning the rubber door gasket and running a hot cycle.,NON_QUALITY_ISSUE
+Water inlet hose leaking profusely. Customer used a damaged hose from their previous machine.,NON_QUALITY_ISSUE
+Error L2: Door cannot be secured. Door latch sensor is misaligned and requires adjustment.,QUALITY_ISSUE
+Unit stops with error E32. Thermistor (temperature sensor) is reading 150°C when water is cold.,QUALITY_ISSUE
+"Machine is not cleaning well. Customer only uses the cold wash feature for all fabrics, including heavily soiled items.",NON_QUALITY_ISSUE
+Clothes are covered in lint. Customer does not separate darks and lights before washing.,NON_QUALITY_ISSUE
+Loud metallic squealing noise on every rotation. Drum spider arm has failed at the weld joint.,QUALITY_ISSUE
+Main control board has intermittent power. Found a trace on the PCB corroded by water splash from the dispenser.,QUALITY_ISSUE
+Unit fills very slowly. Found customer's house water pressure is abnormally low (20 psi).,NON_QUALITY_ISSUE
+Clothes are still wet. Customer only selects the lowest spin speed setting (400 RPM).,NON_QUALITY_ISSUE
+Machine will not start. Technician found the 'Start/Pause' button has failed internally.,QUALITY_ISSUE
+Machine leaks when adding detergent. Customer is filling the dispenser past the max line.,NON_QUALITY_ISSUE
+Error D7 detected. Drain pump motor is running continuously even when machine is off.,QUALITY_ISSUE
+Motor won't spin. Confirmed a short in the motor harness connection plug.,QUALITY_ISSUE
+"Machine is dead. Found a penny jammed in the main power switch, preventing it from latching.",NON_QUALITY_ISSUE
+Customer complaints of faded colors. Advised customer to turn clothes inside out before washing.,NON_QUALITY_ISSUE
+The motor control board (MCB) suffered a power spike and is visibly damaged.,QUALITY_ISSUE
+"Machine makes a ""clunk"" on startup. Found shipping foam left under the drum by the installer.",NON_QUALITY_ISSUE
+Rust spots forming on the cabinet exterior near the door. Low-quality paint finish.,QUALITY_ISSUE
+Drain pipe connection is leaking. Customer reused an old pipe clamp that had lost its tension.,NON_QUALITY_ISSUE
+"Machine cycles irregularly. Software on the main PCB is corrupted, requiring a full reflash.",QUALITY_ISSUE
+"Customer reports clothes are too hot. Checked temp sensor, reading fine. Customer using the ""Sanitize"" cycle.",NON_QUALITY_ISSUE
+Unit leaks from the tub-to-pump hose. Manufacturing defect in the rubber hose material.,QUALITY_ISSUE
+Clothes ripped. Technician found a piece of barbed wire in the drum.,NON_QUALITY_ISSUE
+Drum makes a severe scraping sound. Tub stabilizer shock absorber failed completely.,QUALITY_ISSUE
+Machine stopped with F04 error. Error indicates water flow issue. Found the customer's external water filter is clogged.,NON_QUALITY_ISSUE
+Main drum pulley is warped and causing the drive belt to slip off frequently.,QUALITY_ISSUE
+Customer confused about the 'Detergent Ball' and put it in the wrong compartment.,NON_QUALITY_ISSUE
+Display is showing random characters. Ribbon cable connection to the LCD is defective.,QUALITY_ISSUE
+Clothes are not rinsed properly. Technician found the water inlet solenoid valve is only opening halfway.,QUALITY_ISSUE
+Machine fails to drain. Found drain pump impeller stuck due to a small manufacturing flash/defect in the pump housing.,QUALITY_ISSUE
+Unit rattles loudly. Customer insists it is level. Found a pair of scissors on the floor underneath the unit.,NON_QUALITY_ISSUE
+Customer requests a replacement fill hose after their dog chewed it.,NON_QUALITY_ISSUE
+Unit trips GFCI outlet. Short circuit in the main power cord terminal.,QUALITY_ISSUE
+Water leaks from the back. Technician found the shipping bolt holes were not properly capped at the factory.,QUALITY_ISSUE
+"Machine only completes 50% of the cycle. Customer pressed the 'Extra Rinse' button multiple times, confusing the logic.",NON_QUALITY_ISSUE
+Drum is silent during spin. Motor shaft snapped clean in half at the bearing mount.,QUALITY_ISSUE
+Customer states water is cold. Technician found the hot water supply valve was turned off at the wall.,NON_QUALITY_ISSUE
+Machine intermittently fails to heat. Heater relay on the PCB has intermittent failure (sticking).,QUALITY_ISSUE
+Clothes are smelling sour. Advised customer to use less water in their homemade detergent.,NON_QUALITY_ISSUE
+Unit stops with error E60. Technician confirmed the main processor chip on the PCB is overheating.,QUALITY_ISSUE
+Customer called because the machine won't start. Door was not properly shut by a family member.,NON_QUALITY_ISSUE
+"Machine shakes heavily, legs are level. Found a large imbalance in the drum counterweight system.",QUALITY_ISSUE
+Water is left in the tub. Technician found the drain standpipe was fully blocked with sludge from an old house drain.,NON_QUALITY_ISSUE
+Drain pump is making a loud buzzing sound but not draining. Pump is burnt out due to manufacturing defect.,QUALITY_ISSUE
+Customer says clothes are not dry. Machine is a combi unit. Found customer overloaded it past the drying weight limit.,NON_QUALITY_ISSUE
+The start button is stiff and sometimes gets stuck. Faulty button mechanism in the fascia.,QUALITY_ISSUE
+Customer reports high electricity bill. Advised customer to use the cold water setting for non-essential loads.,NON_QUALITY_ISSUE
+Error code F16 flashes randomly. Found a loose connection in the wiring harness near the main terminal.,QUALITY_ISSUE
+Water leaks from the back during spin. Customer failed to tighten the water inlet hoses securely.,NON_QUALITY_ISSUE
+Drum seal leaking water onto the floor. Rubber seal cracked prematurely after 1 year.,QUALITY_ISSUE
+Customer called because the display is completely off. Technician found the power strip was off.,NON_QUALITY_ISSUE
+"Machine stops with E30 error. Water level sensor is reading empty, but the tub is full.",QUALITY_ISSUE
+Clothes are stiff and scratchy. Customer lives in a hard water area and doesn't use water softener.,NON_QUALITY_ISSUE
+Control panel touch input is erratic and ghosting. Moisture has entered the PCB behind the membrane.,QUALITY_ISSUE
+"Unit vibrates heavily. Customer lives on the second floor with a wooden subfloor, machine needs a damping mat.",NON_QUALITY_ISSUE
+"Motor runs, but the drum only jerks. Capacitors on the MCB are bloated and failing.",QUALITY_ISSUE
+Customer reports the drain pump is loud. Advised that a loud hum is normal during the draining phase.,NON_QUALITY_ISSUE
+"Loud clunking on every spin. Defective suspension dampener rod, leaking hydraulic fluid.",QUALITY_ISSUE
+Water won't drain. Technician found a coin completely blocking the drain hose outlet at the wall pipe.,NON_QUALITY_ISSUE
+Machine trips the main breaker. Short in the wiring loom where it passes through a metal panel edge.,QUALITY_ISSUE
+"Customer requests service for replacement detergent dispenser drawer, which was damaged by dropping.",NON_QUALITY_ISSUE
+Drum spider arm snapped at the base plate weld. Critical structural failure.,QUALITY_ISSUE
+Machine not filling with water. Customer reports low water pressure due to town maintenance.,NON_QUALITY_ISSUE
+"The door hinge is visibly warped, making the door difficult to close. Poor metal strength.",QUALITY_ISSUE
+"Clothes still wet. Customer is using the 'Delicate' cycle, which defaults to a low spin speed.",NON_QUALITY_ISSUE
+Intermittent failure to heat. Heater connection wire is loose on the terminal block.,QUALITY_ISSUE
+"Customer using generic, non-OEM soap dispenser inserts. Causes poor water flow.",NON_QUALITY_ISSUE
+Machine stops with E70 error. Faulty communication line between the main and display PCBs.,QUALITY_ISSUE
+Clothes are still dirty. Customer washes extremely large loads with minimal detergent.,NON_QUALITY_ISSUE
+"Pump runs constantly, even when off. Defective drain pump control relay on the PCB.",QUALITY_ISSUE
+Water level too low. Technician found a kink in the external fill hose restricting flow.,NON_QUALITY_ISSUE
+"Drum is moving freely, but the motor is locked up. Stator failure due to overheating.",QUALITY_ISSUE
+Machine stops with E8 error. Found customer manually paused and restarted the machine multiple times too quickly.,NON_QUALITY_ISSUE
+Drum bearing noise is loud and consistent. Bearing failed after only 1 year.,QUALITY_ISSUE
+Customer complaints of a vibrating sound. Found the small plastic cover on the drain pump motor is loose.,NON_QUALITY_ISSUE
+Water leaks from the front door seal. Seal has a small puncture from a sharp object.,NON_QUALITY_ISSUE
+Unit keeps stopping. Technician found the power outlet itself is faulty and needs replacement.,NON_QUALITY_ISSUE
+Digital display is completely blank. Backlight inverter board failed.,QUALITY_ISSUE
+Detergent clumping in the drawer. Advised customer on using warm water to flush the dispenser after each use.,NON_QUALITY_ISSUE
+Drum scrapes the tub. Suspension spring detaches during spin due to faulty anchor point weld.,QUALITY_ISSUE
+Machine only runs short cycles. Customer is using the 'Delay Start' function incorrectly as a timer.,NON_QUALITY_ISSUE
+"Motor runs, but drum doesn't spin. Drive belt is snapped due to manufacturing flaw in the rubber compound.",QUALITY_ISSUE
+Machine is very loud. Customer lives in an apartment and requested service to lower the maximum spin speed setting.,NON_QUALITY_ISSUE
+"Drain pump housing seal failure, causing water to leak onto the floor during drain.",QUALITY_ISSUE
+Clothes have white streaks. Customer used too much bleaching agent which stained the fabric.,NON_QUALITY_ISSUE
+Unit fails to turn on. The internal transformer on the main PCB is burnt out.,QUALITY_ISSUE
+Machine is shaking. Found a small level bubble was used and it was slightly off. Used professional level to correct.,NON_QUALITY_ISSUE
+Machine fills with hot water even on cold setting. Cold water valve actuator is stuck open.,QUALITY_ISSUE
+Customer reports the drain pump is making a clicking noise. Found a shirt button was stuck in the impeller.,NON_QUALITY_ISSUE
+Loud buzzing sound from the door lock. Solenoid plunger is binding due to poor tolerance on the component.,QUALITY_ISSUE
+Water pressure is low. Checked water inlet. Customer's sediment filter for the whole house is heavily clogged.,NON_QUALITY_ISSUE
+Machine intermittently stops and restarts. Faulty ground wire connection on the internal main power junction.,QUALITY_ISSUE
+Customer requesting service because the filter screen is full of cat hair and debris.,NON_QUALITY_ISSUE
+Door handle breaks repeatedly. Hinge pin is undersized for the torsional load.,QUALITY_ISSUE
+Clothes are coming out smelling metallic. Found customer is using borehole water with high iron content.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Pressure sensor cable is shorting intermittently against the tub metal.,QUALITY_ISSUE
+"Unit vibrates heavily. Technician found the machine was installed on a slick, non-slip vinyl floor without pads.",NON_QUALITY_ISSUE
+Rust is visible on the inner drum lip after only 4 months. Material defect in the steel alloy.,QUALITY_ISSUE
+Drain hose is leaking. Customer used glue instead of a proper clamp to repair a previous puncture.,NON_QUALITY_ISSUE
+F6 error code. Main PCB processor is failing under load (thermal shutdown).,QUALITY_ISSUE
+Customer complaint of clothes shrinking. Advised on reading care labels and using lower temperature cycles.,NON_QUALITY_ISSUE
+Water is continuously filling. The flow meter component is sending a continuous 'filling' signal to the control board.,QUALITY_ISSUE
+"Clothes are still dirty. Technician found the customer is using a faulty, very old water softener unit.",NON_QUALITY_ISSUE
+Loud scraping sound. Tub stabilizer shock absorber completely seized up.,QUALITY_ISSUE
+Customer reports the drum is dirty. Advised customer to purchase and use a proper machine cleaning tablet monthly.,NON_QUALITY_ISSUE
+Door seal has a large tear. Rubber compound failed prematurely due to poor quality control.,QUALITY_ISSUE
+Machine will not start. Customer forgot to empty the water from the previous 'Rinse Hold' cycle.,NON_QUALITY_ISSUE
+Excessive foaming. Customer is using three times the recommended amount of detergent per load.,NON_QUALITY_ISSUE
+"Clothes are still wet. Customer only uses the 'Hand Wash' cycle, which has a default 0 RPM spin.",NON_QUALITY_ISSUE
+Error E40 displayed. Door lock solenoid has failed to extend the locking pin.,QUALITY_ISSUE
+Customer reports power failure. Found a loose fuse in the house fuse box.,NON_QUALITY_ISSUE
+Loud mechanical bang on startup. Main drum motor mounting bolts were incorrectly torqued at the factory.,QUALITY_ISSUE
+Machine is dead. Customer had a power outage in the neighborhood.,NON_QUALITY_ISSUE
+Display panel is half-lit and flickering. Bad capacitor on the display board power supply line.,QUALITY_ISSUE
+Customer wants to replace the rubber feet. Not covered under warranty; normal wear.,NON_QUALITY_ISSUE
+Motor smells of burning plastic during spin. Motor windings are overheating due to defect.,QUALITY_ISSUE
+"Clothes smell burnt after drying. Customer is leaving the machine in a small, unventilated closet.",NON_QUALITY_ISSUE
+Water leaks from the tub-to-pump hose clamp. Clamp was incorrectly sized at the factory.,QUALITY_ISSUE
+"Unit vibrates excessively. Found the installation shims are uneven, causing imbalance.",NON_QUALITY_ISSUE
+Machine continuously tries to drain. Drain sensor reports high water level even when empty (stuck closed).,QUALITY_ISSUE
+Drain hose is leaking at the standpipe. Customer failed to push the hose in far enough.,NON_QUALITY_ISSUE
+Drum is not spinning. Drive belt is loose and slipping due to pulley misalignment.,QUALITY_ISSUE
+"Customer complains the drum is too small. Machine capacity is 6kg, customer regularly loads 10kg.",NON_QUALITY_ISSUE
+Intermittent heating failure. Heater relay on the MCB has burned contacts.,QUALITY_ISSUE
+Clothes have white residue. Customer is mixing powder detergent with liquid fabric softener in the main tray.,NON_QUALITY_ISSUE
+Water filling slowly. Inlet valve filter screen is partially blocked by manufacturing plastic residue.,QUALITY_ISSUE
+Unit makes a clicking noise during agitation. Found the shipping bolt retaining clips were left loose inside the chassis.,NON_QUALITY_ISSUE
+Error C2: Drain pump failure. Pump impeller is stuck due to metal shaving debris from the factory.,QUALITY_ISSUE
+Customer requests service for replacing the detergent drawer due to permanent mold growth.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Faulty communication signal between the door lock and main board.,QUALITY_ISSUE
+Clothes are too wrinkled. Advised customer on using a lower spin speed for delicate shirts.,NON_QUALITY_ISSUE
+Water leaking from the bottom. Drain pump casing has a small hole from an internal casting flaw.,QUALITY_ISSUE
+Customer complains the machine vibrates. Found the drum is unevenly loaded with a single heavy item.,NON_QUALITY_ISSUE
+P-Board dead. Visible burn mark near the power input inductor.,QUALITY_ISSUE
+Machine stopped. Technician found the power cord had been pulled slightly out of the wall outlet.,NON_QUALITY_ISSUE
+Drum rattles severely. Counterweight bolt snapped due to over-torquing during assembly.,QUALITY_ISSUE
+Customer reports clothes are ruined. Found customer washed an expensive silk dress on the 'Heavy Duty' cycle.,NON_QUALITY_ISSUE
+Water is left in the tub. Anti-siphon valve spring mechanism is weak and fails to close fully.,QUALITY_ISSUE
+Machine fills very slowly. Customer's external water filter is overdue for replacement (severely clogged).,NON_QUALITY_ISSUE
+Control panel is erratic. Touchpad sensor membrane is bubbling due to manufacturing adhesive failure.,QUALITY_ISSUE
+Customer requesting service because the drain hose needs to be longer to reach a new drain point.,NON_QUALITY_ISSUE
+"Unit will not start. The main door hinge is bent, preventing the latch from fully engaging the interlock.",QUALITY_ISSUE
+"Clothes still soapy. Customer accidentally used the ""Extra Detergent"" option and forgot to add another rinse cycle.",NON_QUALITY_ISSUE
+Loud scraping during spin. Drum support bearing race has corroded due to poor sealing.,QUALITY_ISSUE
+Machine is quiet. Advised customer on the noise profile of the new direct-drive motor.,NON_QUALITY_ISSUE
+Clothes have black marks. Drum seal rubbing against the inner tub due to misalignment of the tub.,QUALITY_ISSUE
+Water leaks from the filler hose. Customer used Teflon tape instead of a new rubber washer.,NON_QUALITY_ISSUE
+E90 error code. Software corruption in the main board's EEPROM. Requires replacement.,QUALITY_ISSUE
+Customer using industrial caustic soda to clean the drum. This corroded the plastic pipework.,NON_QUALITY_ISSUE
+Drum won't spin fast. Tachometer sensor is intermittently shorting on the motor casing.,QUALITY_ISSUE
+Machine stops with F1 error. Customer has overloaded the machine to the point where the drum cannot rotate.,NON_QUALITY_ISSUE
+Unit leaks from the door seal. Seal has a flaw/cut from the factory.,QUALITY_ISSUE
+Clothes are still soaking wet. Customer selected the 'Spin Only' cycle but forgot to set the RPM speed.,NON_QUALITY_ISSUE
+Motor makes a loud humming noise but doesn't turn. Starter relay on the MCB failed.,QUALITY_ISSUE
+Technician reports excessive limescale buildup on the heating element. Customer lives in a hard water area.,NON_QUALITY_ISSUE
+Machine fails to heat water. Heating element continuity is open circuit.,QUALITY_ISSUE
+Customer reports the machine smells. Found mold growth in the rubber door boot folds. Advised cleaning.,NON_QUALITY_ISSUE
+"Unit stops with error E2. Pressure sensor is defective, sending inconsistent readings.",QUALITY_ISSUE
+Clothes damaged. Technician found a screw and washer left in the drum from a previous job.,NON_QUALITY_ISSUE
+Loud grinding noise during drain. Drain pump impeller blades are cracked due to poor material.,QUALITY_ISSUE
+Machine shakes heavily. Customer installed the machine on a pedestal without securing it correctly.,NON_QUALITY_ISSUE
+"Intermittent power off. Faulty power switch internally, contacts are worn.",QUALITY_ISSUE
+Water won't drain. Technician found the drain hose was deliberately blocked with a sock by a child.,NON_QUALITY_ISSUE
+Drum spider arm stress fracture failure. Caused massive vibration and unit failure.,QUALITY_ISSUE
+Customer confused by the symbols on the detergent drawer. Requested explanation of the compartments.,NON_QUALITY_ISSUE
+"Main control board dead-on-arrival (DOA). No power, no display.",QUALITY_ISSUE
+Machine stopped. Low voltage supply on the power line confirmed due to house wiring issue.,NON_QUALITY_ISSUE
+Drum wobbles excessively. Suspension rod mounting brackets bent due to weak metal.,QUALITY_ISSUE
+"Clothes are still soapy. Customer set the machine to the 'Economy' cycle, which uses less water.",NON_QUALITY_ISSUE
+Water is backflowing into the drum. Non-return valve in the pump has a faulty seal.,QUALITY_ISSUE
+Customer complains of slow cycle times. Found customer is using the 'Stain Soak' option on every wash.,NON_QUALITY_ISSUE
+Machine trips breaker during spin. Short circuit in the motor winding insulation.,QUALITY_ISSUE
+Filter full of hairpins and paper clips. Normal accumulation of debris. Advised customer to check pockets.,NON_QUALITY_ISSUE
+Control panel randomly resets mid-cycle. Poor quality filtering capacitor on the PCB power line.,QUALITY_ISSUE
+Machine won't start. Door is open. Customer forgot to close the top-loader lid.,NON_QUALITY_ISSUE
+Door interlock assembly has a broken plastic frame. Fails to latch the door securely.,QUALITY_ISSUE
+Customer requesting service because the machine smells burnt. Found a plastic bag had melted onto the heating element.,NON_QUALITY_ISSUE
+Water leaking from the pump housing seal. Gasket material is brittle and cracked after 1 year.,QUALITY_ISSUE
+Clothes are covered in fluff. Customer is washing towels with dark wool clothing.,NON_QUALITY_ISSUE
+Display screen is completely dark. Backlight LED array on the fascia board failed.,QUALITY_ISSUE
+Installation issue: Drain hose is too long and causes poor siphoning/draining performance.,NON_QUALITY_ISSUE
+Drum is not spinning fast enough. Faulty triac on the MCB causing reduced voltage to the motor.,QUALITY_ISSUE
+Customer complains of white streaks. Customer is using powdered detergent without water flow in the dispenser.,NON_QUALITY_ISSUE
+Loud clicking noise when motor starts. Drive belt tensioner pulley bearing is seized.,QUALITY_ISSUE
+Water leaks from the back hose connection. Customer used pliers and damaged the hose thread.,NON_QUALITY_ISSUE
+Unit stops with error E50. Communication failure between the inverter board and the main PCB.,QUALITY_ISSUE
+Clothes are soaking wet. Customer only uses the 'Water Only' cycle for pre-soaking and forgot to select spin.,NON_QUALITY_ISSUE
+Heating element failed. Open circuit detected after 3 months of use.,QUALITY_ISSUE
+Customer used heavy-duty industrial cleaning chemicals which corroded the internal rubber tubing.,NON_QUALITY_ISSUE
+Machine shakes violently. Technician found the drum suspension cable snapped during spin.,QUALITY_ISSUE
+Unit makes a grinding sound. Technician found a piece of metal flashing caught in the drain pump impeller.,NON_QUALITY_ISSUE
+Intermittent failure to spin. Tacho sensor wire is frayed and making poor contact.,QUALITY_ISSUE
+Customer requesting service for replacement drain pump hose due to accidental slicing during DIY.,NON_QUALITY_ISSUE
+Door handle snapped. Poor injection molding quality in the plastic mechanism.,QUALITY_ISSUE
+Water pressure is low. Technician confirmed the municipal supply pressure is below 15 PSI.,NON_QUALITY_ISSUE
+Unit leaks from the soap drawer. Gasket seal failure on the water inlet manifold.,QUALITY_ISSUE
+Customer reports clothes are still dirty. Advised to pre-treat stains before washing.,NON_QUALITY_ISSUE
+Error C3: Pressure switch reports overfill. Switch diaphragm is defective.,QUALITY_ISSUE
+"Machine stops with E7 error. Found customer manually unplugged the machine mid-cycle, corrupting the memory.",NON_QUALITY_ISSUE
+Machine trips main breaker. Short in the motor harness plug due to water ingress.,QUALITY_ISSUE
+Customer complains of a vibrating noise. Found the machine was too close to a wall and rattling against it.,NON_QUALITY_ISSUE
+Rust is showing on the inner drum baffle. Poor stainless steel finishing.,QUALITY_ISSUE
+"Clothes are stiff and scratchy. Customer is using too little detergent, preventing proper suspension of minerals.",NON_QUALITY_ISSUE
+"Machine makes a high-pitched noise. Main motor bearing failed, requiring replacement.",QUALITY_ISSUE
+Drain hose keeps falling out of the standpipe. Customer failed to use the provided U-bend guide.,NON_QUALITY_ISSUE
+Water continuously fills the drum. Hot water solenoid valve is stuck open.,QUALITY_ISSUE
+Customer reports clothes are too hot. Found customer selected the highest temperature setting for all loads.,NON_QUALITY_ISSUE
+Main control board is non-responsive. Corrupted firmware after a failed update attempt.,QUALITY_ISSUE
+"Machine shakes heavily. Found the machine was installed on a carpeted floor, which compresses unevenly.",NON_QUALITY_ISSUE
+Drum is dragging/scraping. The rear drum plate is warped due to poor quality control.,QUALITY_ISSUE
+Water won't drain completely. Technician found a large buildup of fabric softener residue in the drain path.,NON_QUALITY_ISSUE
+Unit stops with error H2. Communication chip on the display board is failing intermittently.,QUALITY_ISSUE
+Customer reports clothes have lint. Advised customer on proper loading techniques (full loads are better).,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a flaw in the molding process causing a thin spot.,QUALITY_ISSUE
+Machine makes an odd smell. Customer is washing heavily oily work clothes without pre-soaking.,NON_QUALITY_ISSUE
+Motor only runs one direction. One of the main phase wires in the harness is open circuit.,QUALITY_ISSUE
+Customer reports machine stops. Found the external water shut-off valve was accidentally turned off.,NON_QUALITY_ISSUE
+Loud thumping noise during spin. Broken counterweight mounting stud.,QUALITY_ISSUE
+Clothes are still damp. Customer is running a small load on the shortest dry setting (combi unit).,NON_QUALITY_ISSUE
+Display lights are too dim to read. Faulty resistor array on the display board.,QUALITY_ISSUE
+"Customer used too much bleach, which caused the fabric to tear.",NON_QUALITY_ISSUE
+Machine stops with E40 error. Door lock plunger solenoid is internally seizing up.,QUALITY_ISSUE
+Drain hose has a large puncture. Customer damaged it while moving furniture.,NON_QUALITY_ISSUE
+Intermittent heating failure. Wiring harness to the thermistor is frayed and shorting.,QUALITY_ISSUE
+Water won't drain. Technician found a wad of tissue paper blocking the drain pump filter.,NON_QUALITY_ISSUE
+Machine will not fully power on. Main PCB has a cold solder joint on the primary power input.,QUALITY_ISSUE
+Clothes are not clean. Customer is overloading the machine past the recommended line.,NON_QUALITY_ISSUE
+"Drum spins, but only very slowly. Capacitor failure in the motor start circuit.",QUALITY_ISSUE
+Unit makes a loud rattling sound. Technician found a loose plastic panel cover inside the cabinet.,QUALITY_ISSUE
+Water leaks from the back during filling. Inlet hose has a manufacturing flaw causing a pinhole leak.,QUALITY_ISSUE
+Customer reports clothes are tangled. Advised customer to use a laundry bag for delicate items.,NON_QUALITY_ISSUE
+Unit stops with error F7. Motor control board is failing to communicate with the main PCB.,QUALITY_ISSUE
+"Machine is very loud. Customer installed it on an untreated concrete floor, amplifying noise.",NON_QUALITY_ISSUE
+Drum makes a severe scraping sound. Drum spider arm bearing race has completely failed.,QUALITY_ISSUE
+Clothes still wet. Customer is using the 'Damp Dry' setting on the combi unit.,NON_QUALITY_ISSUE
+"Pressure switch stuck low. Machine continues to fill, causing water to overflow from the air vent.",QUALITY_ISSUE
+Customer complains of a smell. Found excessive lint buildup in the drum vent pipes (combi unit).,NON_QUALITY_ISSUE
+Door seal has severe mold growth. Advised customer on proper door cleaning and leaving it ajar.,NON_QUALITY_ISSUE
+Unit stops with error E30. Water level sensor is intermittent due to internal corrosion.,QUALITY_ISSUE
+Machine leaks from the front. Technician found a small crack in the plastic fascia near the detergent drawer.,QUALITY_ISSUE
+"Customer used too much fabric softener, leading to an excessive suds error.",NON_QUALITY_ISSUE
+Loud banging noise during spin. Broken shock absorber mounting pin on the chassis.,QUALITY_ISSUE
+"Clothes are still soapy. Customer is using the 'Super Quick' cycle for heavily soiled, full loads.",NON_QUALITY_ISSUE
+Main PCB fails to start. Faulty voltage regulator chip.,QUALITY_ISSUE
+Machine is dead. Found the house power was interrupted by utility work outside.,NON_QUALITY_ISSUE
+Drain pump makes a loud grinding noise. Impeller is scraping the pump casing due to a defect.,QUALITY_ISSUE
+Customer reports clothes are still dirty. Technician found the water temperature sensor is reading too low.,QUALITY_ISSUE
+Water leaks from the drain hose connection. Customer failed to secure the clamp correctly during installation.,NON_QUALITY_ISSUE
+Customer complained of clothes shrinkage. Advised on using the 'Wool/Handwash' cycle instead of cotton.,NON_QUALITY_ISSUE
+Drum spider arm failed prematurely. Cast iron component had an internal void/bubble from manufacturing.,QUALITY_ISSUE
+Water won't fill. Customer's external water softener unit is completely out of salt.,NON_QUALITY_ISSUE
+Machine trips the main breaker. Short in the motor control wiring harness insulation.,QUALITY_ISSUE
+"Clothes are stiff. Customer is using a high spin speed for heavy cottons, causing fiber stiffening.",NON_QUALITY_ISSUE
+Door lock indicator light flashes rapidly. Defective micro-switch inside the interlock mechanism.,QUALITY_ISSUE
+Customer reports odd noises. Found a small stone stuck in one of the drum holes.,NON_QUALITY_ISSUE
+"Water leaks from the soap drawer. Water inlet jet is misaligned, splashing water out of the tray.",QUALITY_ISSUE
+Machine vibrates heavily. Technician found that only one of the four shipping bolts was removed.,NON_QUALITY_ISSUE
+"Unit fails to turn on. The main PCB fuse holder has poor contact, causing intermittent power.",QUALITY_ISSUE
+"Customer used excessive fabric softener, leading to residue buildup in the drain pump filter.",NON_QUALITY_ISSUE
+Motor runs but drum is silent. Drive belt is broken (premature failure after 1 year).,QUALITY_ISSUE
+Clothes are still wet. Customer only uses the machine for hand-washing baby clothes and no spin is selected.,NON_QUALITY_ISSUE
+Loud metallic noise during spin. Drum support bearing race is completely disintegrated.,QUALITY_ISSUE
+Customer reports cycle times are short. Technician found the machine was set to the 'Quick Wash 15min' program.,NON_QUALITY_ISSUE
+"Unit stops with error F9. Water fill valve solenoid is stuck open, causing continuous filling.",QUALITY_ISSUE
+"Machine leaks from the back. Customer used old, stiff water inlet hoses which cracked upon installation.",NON_QUALITY_ISSUE
+Control panel unresponsive. Touch sensor ribbon cable is shorting intermittently.,QUALITY_ISSUE
+Clothes smell burnt. Found customer had overloaded the dryer and the drum couldn't tumble properly.,NON_QUALITY_ISSUE
+Water is left in the tub. Drain pump impeller blades are partially melted due to manufacturing heat flaw.,QUALITY_ISSUE
+Customer reports machine stops. Found the external power socket is faulty and needs replacement.,NON_QUALITY_ISSUE
+Machine fills with cold water only. Hot water inlet valve solenoid is dead.,QUALITY_ISSUE
+Detergent dispenser is clogged. Advised customer to only use HE (High Efficiency) detergent.,NON_QUALITY_ISSUE
+Drum is not rotating. Motor capacitor failed (shorted out).,QUALITY_ISSUE
+Clothes have residue. Customer is using too much non-HE powder detergent in an HE machine.,NON_QUALITY_ISSUE
+Intermittent power failure. Internal EMI filter board component failed (burnt resistor).,QUALITY_ISSUE
+Machine is vibrating. Technician found a heavy imbalance in the load (one wet rug).,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a small defect in the injection molding (air pocket).,QUALITY_ISSUE
+Customer requesting service for replacement drain hose which was cut by a sharp object during movement.,NON_QUALITY_ISSUE
+Motor makes a loud buzzing and fails to spin. Motor control board MOSFET failed.,QUALITY_ISSUE
+Clothes are tangled. Customer loads clothes by stuffing them into the drum tightly.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Water level sensor tube is pinched due to faulty routing.,QUALITY_ISSUE
+"Customer complains of a smell. Found pet hair buildup in the drain filter, causing odor.",NON_QUALITY_ISSUE
+Rust is visible on the stainless steel tub lip. Poor quality material used in the tub trim.,QUALITY_ISSUE
+"Unit vibrates heavily. Customer lives in a poorly constructed mobile home, causing floor instability.",NON_QUALITY_ISSUE
+Error L3: Door interlock failure. Latch mechanism is bent due to internal spring fatigue.,QUALITY_ISSUE
+Clothes are fading. Advised customer on using a cold wash cycle for all colored clothes.,NON_QUALITY_ISSUE
+Main PCB randomly resets. Power supply line on the board has intermittent short.,QUALITY_ISSUE
+Machine fills too slowly. Customer's internal stopcock is only opened halfway.,NON_QUALITY_ISSUE
+Drum is scratching the tub. Suspension rod snapped clean off during spin.,QUALITY_ISSUE
+Water won't fill. Technician found the mesh filter inside the fill valve completely blocked with dirt.,NON_QUALITY_ISSUE
+Water continuously drains. Anti-siphon valve diaphragm is ruptured.,QUALITY_ISSUE
+Customer reports clothes are ripped. Found a zipper was caught in the door seal rubber.,NON_QUALITY_ISSUE
+Loud clicking noise when unit is idle. Control board relay is sticking on and off randomly.,QUALITY_ISSUE
+Machine stopped. Technician found a power surge in the house caused the house breaker to trip.,NON_QUALITY_ISSUE
+Machine fills with hot water even on cold setting. Hot water inlet valve is leaking internally.,QUALITY_ISSUE
+"Customer used harsh chemicals to clean the drum, which caused corrosion on the stainless steel.",NON_QUALITY_ISSUE
+Drum is silent during agitation. Motor winding is completely open circuit.,QUALITY_ISSUE
+Clothes are too wrinkled. Customer is running full loads at the maximum spin speed.,NON_QUALITY_ISSUE
+Error F10 displayed. Communication failure on the CAN bus between the main and display boards.,QUALITY_ISSUE
+Machine leaks from the drain hose. Customer failed to secure the hose with the provided clip at the standpipe.,NON_QUALITY_ISSUE
+Water level sensor stuck low. Machine continues to fill until it overflows.,QUALITY_ISSUE
+Customer reports machine stops. Found a large blockage in the external main drain line.,NON_QUALITY_ISSUE
+Door handle snapped. Poor injection molding quality in the plastic component.,QUALITY_ISSUE
+Clothes are still soapy. Customer used the 'Rinse Hold' feature for an extended period and forgot to run the final spin.,NON_QUALITY_ISSUE
+Loud scraping during spin. Drum support bearing shattered due to manufacturing defect.,QUALITY_ISSUE
+Customer complains of a musty smell. Advised on cleaning the rubber door gasket and running a hot maintenance cycle.,NON_QUALITY_ISSUE
+Unit leaks from the door seal. Seal has a cut from the factory trimming process.,QUALITY_ISSUE
+Machine vibrates heavily. Technician found the unit was installed on an unstable platform/pedestal.,NON_QUALITY_ISSUE
+Heating element failed. Open circuit detected after 6 months. Premature failure due to poor quality material.,QUALITY_ISSUE
+Clothes are still dirty. Customer is using the 'Quick Wash' setting for extremely soiled work uniforms.,NON_QUALITY_ISSUE
+Machine trips main breaker. Short in the heater terminal wiring due to water splash.,QUALITY_ISSUE
+Customer reports slow spin. Advised customer that the machine automatically lowers spin speed for small loads.,NON_QUALITY_ISSUE
+Drum is not rotating. Drive belt is slipping due to excessive wear (premature failure).,QUALITY_ISSUE
+Water won't drain. Technician found a large piece of pet toy blocking the drain pump filter.,NON_QUALITY_ISSUE
+Loud grinding from the pump. Impeller is scraping the casing due to misalignment of the motor shaft.,QUALITY_ISSUE
+Customer complaints of faded colors. Advised on using a detergent specifically for dark colors.,NON_QUALITY_ISSUE
+Water leaks from the tub-to-pump hose. Manufacturing defect in the hose joint weld.,QUALITY_ISSUE
+Unit is dead. Customer has an external power timer which was set incorrectly.,NON_QUALITY_ISSUE
+Error C9: Pressure switch failure. Switch is stuck at maximum level.,QUALITY_ISSUE
+"Customer using non-liquid softener in the liquid dispenser, causing clogging.",NON_QUALITY_ISSUE
+Intermittent power failure. Loose internal wiring harness connector on the main PCB.,QUALITY_ISSUE
+Machine vibrating. Technician found the legs were installed unevenly and required manual adjustment.,NON_QUALITY_ISSUE
+Drum is silent during spin. Motor control board is completely unresponsive (DOA).,QUALITY_ISSUE
+Customer reports water not filling. Found the household main water tap was partially closed.,NON_QUALITY_ISSUE
+Loud metallic squealing. Drum spider arm cracked and rubbing against the tub.,QUALITY_ISSUE
+Clothes are still wet. Customer only selected the 'Drain Only' cycle.,NON_QUALITY_ISSUE
+Main PCB fuse blows immediately on power up. Internal component shorted.,QUALITY_ISSUE
+Machine makes a strange noise. Found a loose coin in the detergent drawer causing rattling.,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a small puncture from a sharp object caught in the wash.,NON_QUALITY_ISSUE
+Unit keeps stopping. Technician found the wall socket was loose and arcing.,NON_QUALITY_ISSUE
+Machine fills with hot water on cold setting. Cold water valve is leaking internally.,QUALITY_ISSUE
+Customer complains of soap residue. Advised on using the specific 'Rinse and Spin' cycle after heavy loads.,NON_QUALITY_ISSUE
+Drum bearing failure. Loud grinding noise. Bearing material defect caused early failure.,QUALITY_ISSUE
+Clothes are tangled. Customer loads a mix of heavy jeans and light shirts together.,NON_QUALITY_ISSUE
+Error F08 displayed. Door interlock solenoid is sticking and not engaging properly.,QUALITY_ISSUE
+Water won't drain. Found the drain hose was incorrectly placed higher than 36 inches.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Software logic error due to a bug in the latest firmware update.,QUALITY_ISSUE
+"Customer used too much homemade liquid detergent, resulting in excessive suds error.",NON_QUALITY_ISSUE
+Water leaks from the drain pump housing. Casing joint not sealed correctly at the factory.,QUALITY_ISSUE
+Clothes are still soaking wet. Customer selected the 'Delicate' cycle with the lowest spin speed option.,NON_QUALITY_ISSUE
+Loud thumping noise. Broken suspension spring anchor point on the tub.,QUALITY_ISSUE
+Machine makes a high-pitched noise. Advised customer on the normal sound profile of the new variable-speed motor.,NON_QUALITY_ISSUE
+Machine fails to heat. Heater connection on the PCB is corroded and open circuit.,QUALITY_ISSUE
+Customer reports water pressure is low. Found the water company is doing pipeline maintenance.,NON_QUALITY_ISSUE
+Drum is scratching the tub. Suspension arm snapped at the weld point.,QUALITY_ISSUE
+Customer requesting replacement inlet hose after it was damaged during installation by a third party.,NON_QUALITY_ISSUE
+Motor overheats and shuts down. Thermal overload protection switch is defective.,QUALITY_ISSUE
+Unit vibrates excessively. Found the installation surface is uneven stone tile.,NON_QUALITY_ISSUE
+Display is flickering and dim. Backlight LED control circuit failed.,QUALITY_ISSUE
+"Clothes have lint. Customer is washing a mixture of old, worn towels with new dark clothes.",NON_QUALITY_ISSUE
+Intermittent power off. Loose connection in the main power loom inside the chassis.,QUALITY_ISSUE
+Machine stops. Customer reports a power fluctuation in the house during a thunderstorm.,NON_QUALITY_ISSUE
+Water continuously fills and drains. Anti-siphon diaphragm failed.,QUALITY_ISSUE
+"Customer used a foreign brand's drain hose that was too thick, preventing proper flow.",NON_QUALITY_ISSUE
+Loud clicking noise when door opens. Door release solenoid plunger is damaged internally.,QUALITY_ISSUE
+Water won't drain. Technician found a child's small plastic toy stuck in the drain pump filter.,NON_QUALITY_ISSUE
+"Main PCB dead. Voltage surge protection circuit failed, destroying the processor.",QUALITY_ISSUE
+Clothes are not clean. Customer uses a quick wash for heavily soiled gardening clothes.,NON_QUALITY_ISSUE
+Drum is not rotating. Motor control board MOSFET shorted out.,QUALITY_ISSUE
+Machine makes a squealing sound. Advised customer to check the drum for coins or debris.,NON_QUALITY_ISSUE
+Rust is forming on the exterior cabinet. Paint defect caused premature corrosion.,QUALITY_ISSUE
+"Customer complains of a musty smell. Advised on cleaning the detergent drawer, which had a heavy build-up of mold.",NON_QUALITY_ISSUE
+Loud grinding during drain. Pump impeller broke off the motor shaft due to poor adhesion.,QUALITY_ISSUE
+Machine stopped. Found customer did not fully close the top-loader lid.,NON_QUALITY_ISSUE
+Water leaks from the tub seal. Seal rubber is cracked prematurely.,QUALITY_ISSUE
+Clothes are still damp. Customer selected the 'No Heat Dry' option (combi unit).,NON_QUALITY_ISSUE
+Unit fails to start. Main power button contacts are worn and not engaging reliably.,QUALITY_ISSUE
+"Customer using non-liquid fabric softener, which clogged the dispenser line.",NON_QUALITY_ISSUE
+Error E10: Water level sensor stuck high. Tub is overflowing.,QUALITY_ISSUE
+Machine makes a clunking noise. Technician found the machine was installed on an unstable wooden platform.,NON_QUALITY_ISSUE
+Machine fills with hot water only. Cold water valve solenoid is stuck open due to component failure.,QUALITY_ISSUE
+Clothes are damaged. Found customer washed shoes with the rest of the laundry.,NON_QUALITY_ISSUE
+Loud metallic scrape during agitation. Drum spider arm cracked due to metal fatigue.,QUALITY_ISSUE
+Customer reports water pressure is too low. Found customer's house main water valve is old and partially restricted.,NON_QUALITY_ISSUE
+Intermittent heating failure. Wiring harness to the thermistor is loose on the main PCB.,QUALITY_ISSUE
+Drain hose is leaking. Customer is reusing a hose that had a previous pinhole repair attempt with tape.,NON_QUALITY_ISSUE
+Machine trips GFCI outlet. Short circuit in the drain pump motor winding.,QUALITY_ISSUE
+Customer complains of lint. Advised on cleaning the lint filter after every drying cycle (combi unit).,NON_QUALITY_ISSUE
+Display panel completely blank. Faulty LCD screen component (dead pixels).,QUALITY_ISSUE
+Unit vibrates excessively. Technician found the machine was not properly leveled and rocking.,NON_QUALITY_ISSUE
+Drum not rotating. Motor capacitor failed (open circuit).,QUALITY_ISSUE
+"Clothes are tangled. Customer overloads the machine, causing clothes to tightly knot during agitation.",NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a small pinhole from a manufacturing defect.,QUALITY_ISSUE
+Machine smells burnt. Found heavy fluff buildup in the heat element area of the combi unit.,NON_QUALITY_ISSUE
+Main PCB randomly shuts down. Poor quality voltage regulator chip failed under load.,QUALITY_ISSUE
+Customer reports slow fill. Technician found the water inlet hose has a severe kink restricting flow.,NON_QUALITY_ISSUE
+Loud banging noise during spin. Broken drum counterweight mounting bolt.,QUALITY_ISSUE
+Clothes are too wrinkled. Customer leaves them in the drum for an entire day after the cycle finishes.,NON_QUALITY_ISSUE
+Error F11: Communication loss between the main PCB and the display module.,QUALITY_ISSUE
+Machine won't drain. Customer forgot to set the machine to 'Spin' after using 'Rinse Hold'.,NON_QUALITY_ISSUE
+Water continuously fills the drum. Inlet valve solenoid plunger is stuck open.,QUALITY_ISSUE
+Technician reports excessive limescale buildup on the heater. Customer lives in a high hardness water area.,NON_QUALITY_ISSUE
+Drum is not spinning fast enough. Tacho sensor is giving erratic readings.,QUALITY_ISSUE
+Customer requesting service because the rubber feet are worn down after 5 years of heavy use.,NON_QUALITY_ISSUE
+Door lock indicator light flashes. Solenoid mechanism is physically jammed due to poor tolerance.,QUALITY_ISSUE
+Machine vibrates. Technician found a small blanket had bunched up on one side of the drum.,NON_QUALITY_ISSUE
+Loud grinding noise during wash. Tub bearing failed prematurely after 1 year.,QUALITY_ISSUE
+Customer reports clothes are still soapy. Advised to reduce detergent dosage for soft water supply.,NON_QUALITY_ISSUE
+"Machine stops mid-cycle. Water pressure sensor is faulty, sending low-pressure readings when pressure is normal.",QUALITY_ISSUE
+Clothes damaged. Customer washed delicate items with heavy-duty towels and sharp items.,NON_QUALITY_ISSUE
+Main PCB is dead. Burnt trace visible near the power input inductor.,QUALITY_ISSUE
+Drain hose is leaking profusely. Customer used a razor blade to cut the end for a better fit.,NON_QUALITY_ISSUE
+Water leaks from the soap dispenser area. Gasket seal failure on the dispenser water manifold.,QUALITY_ISSUE
+Machine is loud during agitation. Found customer's house water pressure is abnormally high (80 PSI).,NON_QUALITY_ISSUE
+Rust spots on the inner drum baffle. Poor quality control on the stainless steel finish.,QUALITY_ISSUE
+"Customer reports power failure. Checked the power socket, which was wet from a spill.",NON_QUALITY_ISSUE
+"Motor runs, but drum is jerking. Faulty triac on the motor control board (MCB) leading to inconsistent power delivery.",QUALITY_ISSUE
+Customer is confused about the spin speed options. Requested clarification on RPM settings.,NON_QUALITY_ISSUE
+Loud metallic squeal. Drum spider arm bearing race has completely seized up.,QUALITY_ISSUE
+Water won't drain. Technician found a large buildup of lint and hair blocking the drain path.,NON_QUALITY_ISSUE
+Unit trips main breaker. Short in the wiring harness near the drain pump connection.,QUALITY_ISSUE
+Machine is shaking. Found a small loose piece of concrete on the floor underneath the unit.,NON_QUALITY_ISSUE
+Door handle snapped clean off. Plastic hinge point fatigue failure.,QUALITY_ISSUE
+Clothes are stiff. Advised customer on using a liquid fabric softener in the final rinse cycle.,NON_QUALITY_ISSUE
+"Water backflows into the drum. Non-return valve is defective, fails to prevent backwash.",QUALITY_ISSUE
+Customer reports cycle times are very long. Found customer is using the 'Extra Dirty' pre-wash option constantly.,NON_QUALITY_ISSUE
+Display panel is erratic. Membrane switch array is failing due to moisture ingress.,QUALITY_ISSUE
+"Machine is very loud. Customer installed it in a small, closed utility room with hard surfaces.",NON_QUALITY_ISSUE
+Drum is scratching the tub. Suspension rod mounting bush wore out prematurely.,QUALITY_ISSUE
+Clothes are covered in white streaks. Customer is using too much powder detergent in a cold wash cycle.,NON_QUALITY_ISSUE
+Error C7: Drain pump failure. Pump motor windings are open circuit.,QUALITY_ISSUE
+Customer reports the lid will not open. Found a key stuck in the lid latch area.,NON_QUALITY_ISSUE
+Machine fills with cold water only. Hot water valve actuator is stuck closed.,QUALITY_ISSUE
+Drain hose is leaking. Customer failed to secure the hose with the provided retainer clip.,NON_QUALITY_ISSUE
+Unit stops with error E6. Water heater element is shorted to ground.,QUALITY_ISSUE
+Clothes are still dirty. Customer uses the lowest temperature setting for all heavily stained clothes.,NON_QUALITY_ISSUE
+Loud clicking noise when unit fills. Inlet solenoid valve plunger is binding due to poor component tolerance.,QUALITY_ISSUE
+Machine makes a strange noise. Found a loose screw rattling inside the cabinet base.,QUALITY_ISSUE
+Customer reports a smell. Advised on cleaning the door seal frequently to remove soap residue.,NON_QUALITY_ISSUE
+"Unit makes a grinding sound. Technician found a large metal object in the drain filter, not pump fault.",NON_QUALITY_ISSUE
+Rust is forming on the drum shaft where it meets the bearing. Poor surface treatment.,QUALITY_ISSUE
+Clothes are too tangled. Advised customer to use a lower spin speed for mixed delicate loads.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Faulty communication line between the main board and the motor control board.,QUALITY_ISSUE
+"Customer used excessive amounts of baking soda to clean the drum, clogging the drain pump.",NON_QUALITY_ISSUE
+Drum not rotating. Motor brushes worn down prematurely after 9 months.,QUALITY_ISSUE
+Machine is vibrating. Technician found the anti-vibration rubber feet were cracked and ineffective.,NON_QUALITY_ISSUE
+Water leaks from the back. Technician found the fill valve was leaking onto the rear panel from a crack.,QUALITY_ISSUE
+Customer reports clothes are ripped. Found a loose bolt inside the drum from a previous service job.,NON_QUALITY_ISSUE
+Main control board is dead. Power surge damaged the input filter section of the PCB.,QUALITY_ISSUE
+Clothes are still damp. Customer only used the 'Air Dry' setting (combi unit).,NON_QUALITY_ISSUE
+Loud thumping noise during spin. Broken plastic base plate for the shock absorber.,QUALITY_ISSUE
+"Drain hose is leaking. Customer failed to properly attach the U-bend to the standpipe, causing splash-back.",NON_QUALITY_ISSUE
+Machine stops with E40 error. Door interlock solenoid is weak and fails to latch the heavy door.,QUALITY_ISSUE
+Customer reports water not filling. Found a major pressure drop in the entire apartment building water supply.,NON_QUALITY_ISSUE
+Loud scraping during spin. Drum support bearing race is pitted and corroded.,QUALITY_ISSUE
+"Clothes have lint. Customer is washing dark, delicate synthetic fabrics with cotton towels.",NON_QUALITY_ISSUE
+Intermittent power failure. Loose power cable connector on the back of the machine.,QUALITY_ISSUE
+Machine is dead. Found the customer's remote-controlled outlet switch was turned off.,NON_QUALITY_ISSUE
+Water leaks from the drain pump connection. Pump seal deformed during factory installation.,QUALITY_ISSUE
+Customer complaints of detergent residue. Advised on the correct fill line for powder detergent.,NON_QUALITY_ISSUE
+Drum is not rotating. Motor control board failed due to internal component overheating.,QUALITY_ISSUE
+Clothes are still soapy. Customer uses a heavily concentrated detergent and double the recommended dose.,NON_QUALITY_ISSUE
+Error F14: Main PCB failure. Processor is failing under load.,QUALITY_ISSUE
+Machine shakes heavily. Technician found the machine was not securely fastened to the wall bracket (commercial unit).,NON_QUALITY_ISSUE
+"Water is continuously filling. Inlet valve is leaking internally, even when closed.",QUALITY_ISSUE
+Customer reports slow fill. Technician found the customer's hose bib outside was only opened slightly.,NON_QUALITY_ISSUE
+Display is pixelated and unreadable. Faulty ribbon cable connection to the LCD screen.,QUALITY_ISSUE
+Clothes are too stiff. Advised customer on using a gentler tumble cycle for shirts.,NON_QUALITY_ISSUE
+Loud buzzing noise when draining. Drain pump impeller scraping the housing due to poor casting.,QUALITY_ISSUE
+Customer used heavy-duty degreaser which degraded the plastic housing of the detergent drawer.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Water level sensor cable is corroded and sending intermittent signals.,QUALITY_ISSUE
+"Water won't drain. Found a small toy stuck in the drain filter, not pump fault.",NON_QUALITY_ISSUE
+Drum spider arm snapped at the weld joint. Critical structural failure after 2 years.,QUALITY_ISSUE
+"Customer requesting service for replacement drain pump filter cap, which was lost during cleaning.",NON_QUALITY_ISSUE
+"Unit fails to heat water. Thermistor is reading too high, causing the board to prevent heating.",QUALITY_ISSUE
+Clothes are wrinkled. Customer is running high spin speed on light synthetic fabrics.,NON_QUALITY_ISSUE
+Machine trips main breaker. Short in the motor winding insulation due to friction rub.,QUALITY_ISSUE
+Customer complains of a smell. Found excessive lint and hair buildup in the drum.,NON_QUALITY_ISSUE
+Drum is not rotating. Drive belt pulley snapped clean off the motor shaft.,QUALITY_ISSUE
+Water leaks from the back. Customer failed to secure the water inlet hose clamp correctly.,NON_QUALITY_ISSUE
+Error E80: Software logic failure. Machine stops randomly.,QUALITY_ISSUE
+Clothes are still dirty. Customer washes heavily soiled items in a machine overloaded with light clothes.,NON_QUALITY_ISSUE
+Loud banging during spin. Loose counterweight bolt causing severe imbalance.,QUALITY_ISSUE
+"Machine makes a squealing noise. Advised customer on the normal sound of a new, high-speed spin cycle.",NON_QUALITY_ISSUE
+Water leaks from the door seal. Rubber seal has a flaw/thin spot from the factory molding.,QUALITY_ISSUE
+Customer reports power failure. Found the main house fuse had blown due to an unrelated appliance.,NON_QUALITY_ISSUE
+"Motor runs, but drum is silent. Drive belt snapped due to manufacturing flaw.",QUALITY_ISSUE
+Clothes are too tangled. Customer loads clothes by knotting them together before placing them in the drum.,NON_QUALITY_ISSUE
+Intermittent heating failure. Heater relay contacts on the PCB are burned out.,QUALITY_ISSUE
+Water is left in the tub. Technician found a large buildup of soap scum around the drain sensor.,NON_QUALITY_ISSUE
+Door interlock failure. Solenoid plunger is binding due to corrosion on the metal shaft.,QUALITY_ISSUE
+Customer complains of lint. Advised customer to clean the lint filter after every dry cycle.,NON_QUALITY_ISSUE
+"Unit stops with error E3. Pressure switch is defective, reading intermittent pressure drops.",QUALITY_ISSUE
+"Machine vibrates heavily. Technician found the machine was installed on a high-gloss, slick tile floor.",NON_QUALITY_ISSUE
+Machine trips main breaker. Short in the wiring harness near the heating element terminal.,QUALITY_ISSUE
+Clothes are still damp. Customer selected the 'Spin Only' option but forgot to set the desired RPM speed.,NON_QUALITY_ISSUE
+Loud scraping during wash. Foreign object (small rock) stuck between the outer tub and drum.,NON_QUALITY_ISSUE
+Water filling slowly. Customer's external water filter is severely overdue for replacement.,NON_QUALITY_ISSUE
+Rust spots on the exterior cabinet. Defect in the paint application process.,QUALITY_ISSUE
+Customer used heavy cleaning powders which clogged the fine mesh filter in the inlet valve.,NON_QUALITY_ISSUE
+Machine fills with cold water only. Hot water inlet valve solenoid is dead (coil open circuit).,QUALITY_ISSUE
+"Clothes are damaged. Found customer washed an item with a very large, sharp belt buckle.",NON_QUALITY_ISSUE
+Drum bearing failure. Loud grinding and metal dust visible below the tub.,QUALITY_ISSUE
+Customer requesting replacement drain hose after accidental cutting during home renovation.,NON_QUALITY_ISSUE
+Main PCB is dead. Faulty power transistor on the voltage regulator circuit.,QUALITY_ISSUE
+"Machine vibrates heavily. Found customer installed the machine on a thick, dense rubber mat.",NON_QUALITY_ISSUE
+Water leaks from the back. Inlet hose coupling cracked due to poor plastic quality.,QUALITY_ISSUE
+Clothes are too stiff. Advised customer on using distilled white vinegar as a fabric softener alternative.,NON_QUALITY_ISSUE
+Error F15: Motor control board failure. Processor chip is overheating and shutting down.,QUALITY_ISSUE
+Customer reports water not filling. Found the household water pressure is abnormally low due to local maintenance.,NON_QUALITY_ISSUE
+Loud banging during spin. Drum counterweight is loose from the factory mounting.,QUALITY_ISSUE
+Machine is dead. Found the house power was out due to an external transformer failure.,NON_QUALITY_ISSUE
+"Water is continuously filling. Inlet valve seal is defective, causing a slow leak even when closed.",QUALITY_ISSUE
+"Clothes are still soapy. Customer used the 'Super Quick' cycle for a full, heavily soiled load.",NON_QUALITY_ISSUE
+Unit stops with error H3. Communication failure between the main board and the display panel.,QUALITY_ISSUE
+Customer reports clothes are faded. Advised on using the 'Delicate' cycle to reduce agitation intensity.,NON_QUALITY_ISSUE
+Drum is silent during agitation. Motor winding is shorted internally.,QUALITY_ISSUE
+Machine makes a thumping noise. Found a loose coin in the drum holes during the wash cycle.,NON_QUALITY_ISSUE
+Loud scraping during spin. Drum spider arm bearing race has completely failed.,QUALITY_ISSUE
+Customer used liquid softener which caused residue buildup in the pump filter.,NON_QUALITY_ISSUE
+Machine fills with hot water even on cold setting. Cold water valve is leaking internally.,QUALITY_ISSUE
+Clothes are too wrinkled. Customer is running high-speed spin on lightweight synthetic garments.,NON_QUALITY_ISSUE
+Unit trips main breaker. Short in the drain pump wiring harness near the connection terminal.,QUALITY_ISSUE
+Customer reports water not filling. Found the mesh filter in the water inlet hose was completely blocked with dirt.,NON_QUALITY_ISSUE
+Door handle snapped. Poor quality plastic component in the door latch assembly.,QUALITY_ISSUE
+Machine makes an odd sound. Advised customer on the normal noise of the new magnetic door lock system.,NON_QUALITY_ISSUE
+Main PCB shows error E9. Corrupted firmware in the memory chip.,QUALITY_ISSUE
+Water won't drain. Technician found the drain hose was deliberately blocked with a cloth by a child.,NON_QUALITY_ISSUE
+Drum is scratching the tub. Suspension rod mounting bush has failed prematurely.,QUALITY_ISSUE
+Customer complains of a musty smell. Advised on running a cleaning cycle with bleach and hot water.,NON_QUALITY_ISSUE
+Loud clicking noise when unit is idle. Control board power relay is failing (contacts sticking).,QUALITY_ISSUE
+Clothes are still damp. Customer selected the 'Energy Saver' dry cycle (combi unit).,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a flaw in the molding causing an imperfect fit.,QUALITY_ISSUE
+Machine vibrates excessively. Found the installation platform is very old and unstable wood flooring.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Tacho sensor cable is loose and sending intermittent zero RPM signals.,QUALITY_ISSUE
+Customer reports clothes are ripped. Found a nail inside the drum from construction debris.,NON_QUALITY_ISSUE
+Unit fails to turn on. The main PCB voltage regulator is shorted out.,QUALITY_ISSUE
+Water is left in the tub. Technician found a large buildup of heavy detergent residue blocking the drain outlet.,NON_QUALITY_ISSUE
+Loud thumping noise during spin. Broken plastic frame supporting the drum suspension.,QUALITY_ISSUE
+Clothes are still soapy. Customer is using the 'Rinse Only' cycle for washing clothes instead of the full cycle.,NON_QUALITY_ISSUE
+Display is dim and flickering. Backlight control chip on the display PCB is failing.,QUALITY_ISSUE
+Customer reports power failure. Found the external power surge protector had tripped.,NON_QUALITY_ISSUE
+Door lock assembly failure. Solenoid plunger is corroded and seizing up.,QUALITY_ISSUE
+Machine is shaking. Found a single heavy rug in the drum causing severe imbalance error.,NON_QUALITY_ISSUE
+Water leaks from the tub-to-pump hose. Hose material cracked prematurely after 1 year.,QUALITY_ISSUE
+Drain hose is leaking profusely. Customer failed to tighten the clamp after cleaning the drain filter.,NON_QUALITY_ISSUE
+"Motor runs, but drum is jerking violently. Encoder wheel on the motor is cracked.",QUALITY_ISSUE
+"Customer used excessive fabric softener, leading to residue buildup on the drum and clothes.",NON_QUALITY_ISSUE
+Main PCB is non-responsive. Corrupted bootloader firmware requires full replacement.,QUALITY_ISSUE
+Clothes are still dirty. Customer washes a very large load using the smallest amount of detergent.,NON_QUALITY_ISSUE
+Rust spots forming on the exterior cabinet. Defect in the anti-corrosion coating.,QUALITY_ISSUE
+Machine is very loud. Advised customer on lowering the final spin speed to reduce noise.,NON_QUALITY_ISSUE
+Error F4: Heating element failure. Continuity check is open circuit.,QUALITY_ISSUE
+Water won't drain. Technician found a loose hair clip blocking the drain pump impeller.,NON_QUALITY_ISSUE
+Loud grinding from the pump. Pump impeller blades are worn down from manufacturing debris.,QUALITY_ISSUE
+Customer requests service for replacement drain hose which was brittle and cracked from old age.,NON_QUALITY_ISSUE
+Water leaks from the soap dispenser. Gasket seal on the water jet nozzle is deformed.,QUALITY_ISSUE
+Machine vibrates heavily. Technician found the machine was installed on a slick tile floor without anti-vibration pads.,NON_QUALITY_ISSUE
+Unit stops with error C1. Water level sensor stuck low.,QUALITY_ISSUE
+Clothes are too wrinkled. Customer runs the dryer on the highest heat setting (combi unit).,NON_QUALITY_ISSUE
+Drum is scratching the tub. Suspension rod snapped.,QUALITY_ISSUE
+Customer complains of lint. Advised on using a lint roller for dark clothes after drying.,NON_QUALITY_ISSUE
+Intermittent power off. Internal power cable connector is loose on the EMI filter board.,QUALITY_ISSUE
+Water won't fill. Technician found the customer's external water softener unit is completely depleted of salt.,NON_QUALITY_ISSUE
+Door handle snapped clean off. Metal fatigue failure in the pivot point.,QUALITY_ISSUE
+Machine makes an odd smell. Found residue from cleaning chemicals in the detergent drawer.,NON_QUALITY_ISSUE
+Main PCB shows error E5. Faulty communication chip on the board.,QUALITY_ISSUE
+Customer reports clothes are faded. Advised on washing dark colors on the shortest cycle possible.,NON_QUALITY_ISSUE
+Drum is not rotating. Motor control board MOSFET failed (shorted).,QUALITY_ISSUE
+Water leaks from the back. Customer failed to properly attach the drain hose U-bend to the standpipe.,NON_QUALITY_ISSUE
+Loud metallic noise during spin. Drum support bearing race is completely disintegrated.,QUALITY_ISSUE
+Clothes are still soapy. Customer used high-suds detergent in a front-loader machine.,NON_QUALITY_ISSUE
+Water continuously fills the drum. Cold water inlet valve solenoid is stuck open.,QUALITY_ISSUE
+Machine stopped. Found the power plug was loosely inserted into the wall socket.,NON_QUALITY_ISSUE
+Error F05: Drain pump failure. Pump motor failed to start due to winding issue.,QUALITY_ISSUE
+Customer confused by the 'Start/Pause' button function. Requested clarification on cycle control.,NON_QUALITY_ISSUE
+Display is completely blank. Faulty ribbon cable connection to the main PCB.,QUALITY_ISSUE
+Clothes are too tangled. Advised customer to use a lower RPM spin for delicate fabrics.,NON_QUALITY_ISSUE
+Loud thumping noise during spin. Broken drum counterweight support bracket.,QUALITY_ISSUE
+Water won't fill. Technician found a large piece of scale buildup blocking the water inlet filter.,NON_QUALITY_ISSUE
+Machine trips main breaker. Short in the motor winding insulation.,QUALITY_ISSUE
+Customer complains of a smell. Advised on cleaning the area around the drain pump filter where water can collect.,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a flaw/thin spot from the molding process.,QUALITY_ISSUE
+Machine vibrates excessively. Technician found the machine installed on a loose gravel base (outdoor installation).,NON_QUALITY_ISSUE
+Intermittent heating failure. Heater relay on the PCB has intermittent failure (sticking contacts).,QUALITY_ISSUE
+Clothes are still damp. Customer selected the 'Quick Dry' option for a heavily loaded machine.,NON_QUALITY_ISSUE
+Unit stops with error E40. Door interlock solenoid is weak and fails to latch the door securely.,QUALITY_ISSUE
+Customer requesting service because the rubber door gasket is covered in mold.,NON_QUALITY_ISSUE
+Loud scraping during wash. Drum spider arm cracked and rubbing the tub.,QUALITY_ISSUE
+Water leaks from the back. Customer failed to secure the water inlet hose clamps correctly.,NON_QUALITY_ISSUE
+Main PCB is dead. Power surge damaged the main processor chip.,QUALITY_ISSUE
+Clothes are damaged. Found a large metal object left in the pocket during the wash cycle.,NON_QUALITY_ISSUE
+Drum is not rotating. Drive belt snapped (premature failure due to poor quality material).,QUALITY_ISSUE
+Machine stops. Customer reports a brief power flicker in the area.,NON_QUALITY_ISSUE
+Loud clicking noise when unit fills. Inlet solenoid valve plunger is binding due to poor component tolerance.,QUALITY_ISSUE
+Water won't drain. Technician found a piece of plastic packaging blocking the drain outlet.,NON_QUALITY_ISSUE
+Machine trips main breaker. Short circuit in the drain pump wiring harness insulation.,QUALITY_ISSUE
+Customer complains of white residue. Advised on using liquid detergent for better solubility.,NON_QUALITY_ISSUE
+Rust is visible on the inner drum lip. Poor quality material used in the drum edge finishing.,QUALITY_ISSUE
+Clothes are still soapy. Customer used the 'Rinse Hold' feature and forgot to run the final drain.,NON_QUALITY_ISSUE
+Drum bearing failure. Loud grinding and visible rust dust below the tub.,QUALITY_ISSUE
+Machine makes a strange noise. Found a coin stuck in the small gap between the inner drum and the tub.,NON_QUALITY_ISSUE
+Water leaks from the drain pump connection. Pump seal deformed during factory installation.,QUALITY_ISSUE
+"Customer used excessive amounts of homemade soap, resulting in a severe suds error.",NON_QUALITY_ISSUE
+"Unit fails to turn on. The main PCB fuse holder has poor contact, causing intermittent power loss.",QUALITY_ISSUE
+"Machine vibrates heavily. Technician found the unit was installed on a very old, uneven wooden floor.",NON_QUALITY_ISSUE
+Loud thumping noise during spin. Broken plastic counterweight support bracket.,QUALITY_ISSUE
+"Clothes are too wrinkled. Customer is running high-speed spin on all clothes, including delicates.",NON_QUALITY_ISSUE
+Error F18: Motor control board failure. Processor chip is failing intermittently.,QUALITY_ISSUE
+Customer reports water not filling. Found the mesh filter in the inlet valve completely blocked with sediment.,NON_QUALITY_ISSUE
+Water is continuously filling. Inlet valve solenoid plunger is stuck open due to internal corrosion.,QUALITY_ISSUE
+"Machine stops mid-cycle. Customer pressed the 'Pause' button multiple times, confusing the cycle logic.",NON_QUALITY_ISSUE
+Intermittent power failure. Loose internal wiring harness connector on the main PCB.,QUALITY_ISSUE
+Customer complains of a smell. Advised on cleaning the detergent drawer which was heavily soiled with old powder residue.,NON_QUALITY_ISSUE
+Door lock indicator light flashes rapidly. Defective micro-switch inside the interlock mechanism.,QUALITY_ISSUE
+Clothes are still damp. Customer selected the lowest spin speed option for a full load of towels.,NON_QUALITY_ISSUE
+Machine fills with hot water only. Cold water valve actuator is stuck closed due to component failure.,QUALITY_ISSUE
+"Water won't drain. Technician found a child's toy stuck in the drain filter, preventing the pump from working.",NON_QUALITY_ISSUE
+Drum is scratching the tub. Suspension rod snapped clean off during spin.,QUALITY_ISSUE
+Customer reports clothes are ripped. Found a pair of scissors left in a pocket during the wash.,NON_QUALITY_ISSUE
+Main PCB randomly resets. Poor quality filter capacitor on the power supply line.,QUALITY_ISSUE
+Machine is dead. Found the house power was out due to an external utility issue.,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a cut from the factory trimming process.,QUALITY_ISSUE
+Customer complains of lint. Advised on emptying pockets before putting clothes in the machine.,NON_QUALITY_ISSUE
+"Motor runs, but drum is silent. Drive belt is broken (premature failure).",QUALITY_ISSUE
+"Clothes are still soapy. Customer used the 'Express Wash' cycle for a heavily soiled, full load.",NON_QUALITY_ISSUE
+Loud scraping during spin. Drum support bearing race is completely seized up.,QUALITY_ISSUE
+Drain hose is leaking. Customer failed to secure the hose with the provided plastic clip.,NON_QUALITY_ISSUE
+Machine trips main breaker. Short in the heating element internal wiring.,QUALITY_ISSUE
+Water won't fill. Customer's external water filter is clogged and needs immediate replacement.,NON_QUALITY_ISSUE
+Unit fails to turn on. The main power switch contacts are worn and not making reliable connection.,QUALITY_ISSUE
+Machine makes a strange noise. Found a loose piece of concrete on the floor underneath the unit.,NON_QUALITY_ISSUE
+"Water is backflowing into the drum. Non-return valve is defective, failing to prevent backwash.",QUALITY_ISSUE
+Customer reports clothes are faded. Advised on turning clothes inside out before washing.,NON_QUALITY_ISSUE
+Loud grinding noise during wash. Tub bearing failed prematurely after 6 months.,QUALITY_ISSUE
+Clothes are too wrinkled. Customer is running high-speed spin on delicate synthetic fabrics.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Water level sensor tube is pinched due to faulty routing during assembly.,QUALITY_ISSUE
+"Customer used excessive amounts of powder detergent, resulting in residue buildup in the pump filter.",NON_QUALITY_ISSUE
+Error F16: Main PCB communication failure with the display board.,QUALITY_ISSUE
+"Drain hose is leaking profusely. Customer used excessive force when connecting the hose, cracking the plastic elbow.",NON_QUALITY_ISSUE
+Drum is not rotating. Motor capacitor failed (shorted).,QUALITY_ISSUE
+Machine is vibrating. Technician found the machine was installed on a carpeted surface.,NON_QUALITY_ISSUE
+Water leaks from the soap dispenser. Gasket seal on the water inlet manifold is deformed.,QUALITY_ISSUE
+Customer reports clothes are ripped. Found a broken zipper stuck in the drum perforation.,NON_QUALITY_ISSUE
+Main PCB is dead. Faulty voltage regulator chip failed under load.,QUALITY_ISSUE
+Clothes are still damp. Customer selected the 'Spin Only' cycle but forgot to set the RPM.,NON_QUALITY_ISSUE
+Water continuously fills the drum. Hot water solenoid valve is stuck open due to component failure.,QUALITY_ISSUE
+Machine stopped. Technician found the external power strip was accidentally switched off.,NON_QUALITY_ISSUE
+Loud metallic scrape during spin. Drum spider arm bearing race is corroded and seizing up.,QUALITY_ISSUE
+Customer complains of a musty smell. Advised on cleaning the detergent drawer which had a heavy build-up of mold.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Tacho sensor cable is loose and sending intermittent zero RPM signals.,QUALITY_ISSUE
+Clothes are still soapy. Customer used high-foaming detergent in a front-loader.,NON_QUALITY_ISSUE
+Rust spots forming on the cabinet exterior near the door. Low-quality paint finish defect.,QUALITY_ISSUE
+Water won't drain. Technician found a large piece of lint blocking the drain pump filter.,NON_QUALITY_ISSUE
+Loud banging noise during spin. Broken drum counterweight mounting stud.,QUALITY_ISSUE
+Customer requesting service because the drain hose needs to be longer to reach the new drain.,NON_QUALITY_ISSUE
+Unit fails to heat water. Heater relay on the PCB has intermittent failure (sticking).,QUALITY_ISSUE
+Clothes are too wrinkled. Customer leaves them in the machine for several hours after the cycle finishes.,NON_QUALITY_ISSUE
+Drum is not rotating. Drive belt is slipping due to pulley misalignment.,QUALITY_ISSUE
+Machine is dead. Found the external water shut-off valve was closed.,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a cut from a sharp object caught in the wash.,NON_QUALITY_ISSUE
+Unit vibrates excessively. Technician found the machine was installed on an unstable pedestal.,NON_QUALITY_ISSUE
+Main PCB is dead. Visible burn mark near the power input filter.,QUALITY_ISSUE
+Customer used too much bleaching agent which caused fabric damage and tearing.,NON_QUALITY_ISSUE
+Loud grinding noise during drain. Drain pump impeller blades are cracked due to poor material.,QUALITY_ISSUE
+Clothes are still soapy. Customer only uses the 'Water Saver' cycle for all loads.,NON_QUALITY_ISSUE
+Water leaks from the back. Technician found the shipping bolt holes were not properly capped.,QUALITY_ISSUE
+Customer reports high vibration. Found a single pair of heavy shoes in the drum causing imbalance.,NON_QUALITY_ISSUE
+"Unit stops with error E30. Water level sensor is reading empty, but the tub is full.",QUALITY_ISSUE
+Drain hose is leaking at the standpipe. Customer failed to secure it with the provided retainer clip.,NON_QUALITY_ISSUE
+Machine trips main breaker. Short in the main power cord terminal.,QUALITY_ISSUE
+Customer complains of slow cycle times. Low household water pressure slowing fill rate.,NON_QUALITY_ISSUE
+Door handle snapped clean off. Plastic fatigue failure.,QUALITY_ISSUE
+Clothes are stiff and scratchy. Customer lives in a hard water area and doesn't use water softener.,NON_QUALITY_ISSUE
+"Water is continuously filling. Anti-siphon valve is defective, causing a constant siphoning effect.",QUALITY_ISSUE
+Customer requests service because the lint filter is full of fuzz and hair.,NON_QUALITY_ISSUE
+Loud metallic squealing. Drum spider arm bearing race has completely failed.,QUALITY_ISSUE
+Machine is dead. Found the customer's remote-controlled outlet switch was turned off.,NON_QUALITY_ISSUE
+Error F17: Communication loss between the main PCB and the display module.,QUALITY_ISSUE
+Clothes are still damp. Customer selected the 'Quick Wash 15min' cycle for heavy cottons.,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a defect in the rubber compound causing premature cracking.,QUALITY_ISSUE
+"Customer used too much liquid detergent, leading to excessive suds and cycle time extension.",NON_QUALITY_ISSUE
+Loud thumping noise during spin. Broken plastic base plate for the shock absorber.,QUALITY_ISSUE
+Drain hose split at the back due to friction against the wall. Replacement needed due to wear/tear.,NON_QUALITY_ISSUE
+Unit fails to turn on. The main PCB voltage regulator is shorted out.,QUALITY_ISSUE
+Machine is vibrating. Technician found the legs were installed unevenly and required manual adjustment.,NON_QUALITY_ISSUE
+Drum is scratching the tub. Suspension rod snapped clean off during spin.,QUALITY_ISSUE
+Customer complains of a vibrating sound. Found the small plastic cover on the drain pump motor is loose.,NON_QUALITY_ISSUE
+Heating element failed. Open circuit detected after 3 months of use.,QUALITY_ISSUE
+Water won't drain. Technician found a piece of plastic packaging blocking the drain path.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Water level sensor cable is corroded and sending intermittent signals.,QUALITY_ISSUE
+Clothes are too wrinkled. Customer leaves them in the machine for hours after the cycle finishes.,NON_QUALITY_ISSUE
+"Motor runs, but drum is jerking violently. Encoder wheel on the motor is cracked.",QUALITY_ISSUE
+"Customer using non-HE detergent, resulting in excessive suds and cycle time extension.",NON_QUALITY_ISSUE
+Rust is visible on the inner drum lip after only 6 months of use. Poor material quality.,QUALITY_ISSUE
+"Machine is dead. Found a penny jammed in the main power switch, preventing it from latching.",NON_QUALITY_ISSUE
+Machine trips main breaker. Short in the motor winding insulation due to friction rub.,QUALITY_ISSUE
+Customer reports high electricity bill. Advised customer to use the cold water setting for non-essential loads.,NON_QUALITY_ISSUE
+Water leaks from the back. Technician found the fill valve was leaking onto the rear panel from a crack.,QUALITY_ISSUE
+Clothes are still damp. Customer selected the lowest spin speed setting (400 RPM).,NON_QUALITY_ISSUE
+Error E50 displayed. Communication failure on the CAN bus between the main and motor boards.,QUALITY_ISSUE
+Customer called because the machine won't start. Door was not properly shut by a family member.,NON_QUALITY_ISSUE
+Loud scraping during wash. Drum support bearing race has corroded due to poor sealing.,QUALITY_ISSUE
+Water leaks from the back during spin. Customer failed to tighten the water inlet hoses securely.,NON_QUALITY_ISSUE
+Display panel is half-lit and flickering. Bad capacitor on the display board power supply line.,QUALITY_ISSUE
+Machine stops with F04 error. Error indicates water flow issue. Found the customer's external water filter is clogged.,NON_QUALITY_ISSUE
+Water is continuously filling. Hot water solenoid valve is stuck open due to component failure.,QUALITY_ISSUE
+Customer reports clothes are ripped. Found a zipper was caught in the door seal rubber.,NON_QUALITY_ISSUE
+Drum is not rotating. Drive belt is slipping due to pulley misalignment.,QUALITY_ISSUE
+Drain hose is cracked near the connection. Old age and chemical exposure caused material degradation.,NON_QUALITY_ISSUE
+Unit stops with error E40. Door lock plunger solenoid is internally seizing up.,QUALITY_ISSUE
+Customer is confused about the spin speed options. Requested clarification on RPM settings.,NON_QUALITY_ISSUE
+Water leaks from the drain pump connection. Casing joint not sealed correctly at factory.,QUALITY_ISSUE
+Machine is shaking. Found a small level bubble was used and it was slightly off. Used professional level to correct.,NON_QUALITY_ISSUE
+Loud thumping noise during spin. Broken counterweight bolt snapped due to over-torquing during assembly.,QUALITY_ISSUE
+Clothes are covered in lint. Customer does not separate darks and lights before washing.,NON_QUALITY_ISSUE
+Intermittent power failure. Loose internal wiring harness connector on the main PCB.,QUALITY_ISSUE
+Water won't drain. Technician found a large buildup of heavy detergent residue blocking the drain outlet.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Pressure sensor cable is shorting intermittently against the tub metal.,QUALITY_ISSUE
+"Unit vibrates heavily, but legs are level. Found packaging bolts still installed in the back of the unit.",NON_QUALITY_ISSUE
+Main PCB is dead. Faulty power supply section on the display PCB has failed components.,QUALITY_ISSUE
+Clothes are still soapy. Customer used the 'Rinse Only' cycle for washing clothes instead of the full cycle.,NON_QUALITY_ISSUE
+Drum spider arm failed prematurely. Cast iron component had an internal void/bubble from manufacturing.,QUALITY_ISSUE
+"Machine is very loud. Customer installed it on an untreated concrete floor, amplifying noise.",NON_QUALITY_ISSUE
+Loud grinding from the motor housing. Rotor shaft is cracked near the stator coil mount.,QUALITY_ISSUE
+Customer reports clothes are ruined. Found customer washed an expensive silk dress on the 'Heavy Duty' cycle.,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a flaw/cut from the factory trimming process.,QUALITY_ISSUE
+Customer reports high vibration. Found a large imbalance in the load (one wet rug).,NON_QUALITY_ISSUE
+Machine trips GFCI outlet. Short circuit in the motor control wiring harness insulation.,QUALITY_ISSUE
+"Water is left in the tub. Technician found a child's toy stuck in the drain filter, blocking flow.",NON_QUALITY_ISSUE
+Error C3: Pressure switch reports overfill. Switch diaphragm is defective.,QUALITY_ISSUE
+Customer is confused about the 'Detergent Ball' and put it in the wrong compartment.,NON_QUALITY_ISSUE
+Water is continuously filling. Inlet valve solenoid plunger is stuck open.,QUALITY_ISSUE
+Customer complains of a vibrating noise. Found the machine was too close to a wall and rattling against it.,NON_QUALITY_ISSUE
+Drum is scratching the stainless steel tub. Appears to be a spider/suspension arm breakage.,QUALITY_ISSUE
+Clothes are still wet. Customer only selects the lowest spin speed setting (400 RPM).,NON_QUALITY_ISSUE
+Machine fills with cold water only. Hot water inlet valve solenoid is dead (coil open circuit).,QUALITY_ISSUE
+"Drain hose is leaking. Customer failed to properly attach the U-bend to the standpipe, causing splash-back.",NON_QUALITY_ISSUE
+Unit stops with error E60. Technician confirmed the main processor chip on the PCB is overheating.,QUALITY_ISSUE
+"Customer used excessive amounts of homemade soap, resulting in a severe suds error.",NON_QUALITY_ISSUE
+Loud clicking noise when door opens. Door release solenoid plunger is damaged internally.,QUALITY_ISSUE
+Water won't fill. Technician found the mesh filter inside the fill valve completely blocked with dirt.,NON_QUALITY_ISSUE
+Machine makes a high-pitched whine. Low oil in the gear box due to an internal seal leak.,QUALITY_ISSUE
+Customer reports water not filling. Found a major pressure drop in the entire apartment building water supply.,NON_QUALITY_ISSUE
+Water leaks from the drain pump connection. Pump seal deformed during factory installation.,QUALITY_ISSUE
+Clothes are still damp. Customer selected the 'No Heat Dry' option (combi unit).,NON_QUALITY_ISSUE
+Error F05: Drain pump failure. Pump motor failed to start due to winding issue.,QUALITY_ISSUE
+Customer complains of a smell. Advised on cleaning the area around the drain pump filter where water can collect.,NON_QUALITY_ISSUE
+Main PCB is dead. Visible burn mark near the power input filter.,QUALITY_ISSUE
+Clothes are still soapy. Customer used high-foaming detergent in a front-loader machine.,NON_QUALITY_ISSUE
+Loud metallic scrape during spin. Drum support bearing race is pitted and corroded.,QUALITY_ISSUE
+Customer requesting service because the filter screen is full of cat hair and debris.,NON_QUALITY_ISSUE
+Drum is not rotating. Motor control board MOSFET shorted out.,QUALITY_ISSUE
+Machine stops. Customer reports a brief power flicker in the area.,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a flaw/thin spot from the molding process.,QUALITY_ISSUE
+Machine is vibrating. Technician found the anti-vibration rubber feet were cracked and ineffective.,NON_QUALITY_ISSUE
+Loud banging noise during spin. Broken drum counterweight support bracket.,QUALITY_ISSUE
+Water won't drain. Technician found a piece of plastic packaging blocking the drain path.,NON_QUALITY_ISSUE
+Intermittent heating failure. Heater relay on the PCB has intermittent failure (sticking).,QUALITY_ISSUE
+Clothes are too wrinkled. Customer runs the dryer on the highest heat setting (combi unit).,NON_QUALITY_ISSUE
+Drum is scratching the tub. Suspension rod snapped clean off during spin.,QUALITY_ISSUE
+Customer complains of lint. Advised on emptying pockets before putting clothes in the machine.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Water level sensor cable is corroded and sending intermittent signals.,QUALITY_ISSUE
+"Drain hose is leaking profusely. Customer used excessive force when connecting the hose, cracking the plastic elbow.",NON_QUALITY_ISSUE
+Loud grinding noise during wash. Tub bearing failed prematurely after 1 year.,QUALITY_ISSUE
+"Machine is very loud. Customer installed it in a small, closed utility room with hard surfaces.",NON_QUALITY_ISSUE
+Unit fails to start. Main power button contacts are worn and not engaging reliably.,QUALITY_ISSUE
+Water won't fill. Technician found the customer's hose bib outside was only opened slightly.,NON_QUALITY_ISSUE
+Water leaks from the back. Technician found the fill valve was leaking onto the rear panel from a crack.,QUALITY_ISSUE
+Clothes are still damp. Customer selected the lowest spin speed setting (400 RPM).,NON_QUALITY_ISSUE
+Loud metallic scrape during spin. Drum support bearing race is completely seized up.,QUALITY_ISSUE
+Customer complains of detergent residue. Advised on the correct fill line for powder detergent.,NON_QUALITY_ISSUE
+Unit trips main breaker. Short circuit in the drain pump motor winding.,QUALITY_ISSUE
+Machine vibrates heavily. Found the installation platform is very old and unstable wood flooring.,NON_QUALITY_ISSUE
+Error F10: Communication loss between the main PCB and the CAN bus.,QUALITY_ISSUE
+"Customer used excessive amounts of homemade soap, resulting in a severe suds error.",NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a small pinhole from a manufacturing defect.,QUALITY_ISSUE
+Drain hose is leaking profusely. Customer failed to tighten the clamp after cleaning the drain filter.,NON_QUALITY_ISSUE
+"Machine stops mid-cycle. Pressure sensor is faulty, sending low-pressure readings when pressure is normal.",QUALITY_ISSUE
+Clothes are still damp. Customer selected the 'Quick Dry' option for a heavily loaded machine.,NON_QUALITY_ISSUE
+Loud thumping noise during spin. Broken drum counterweight mounting stud.,QUALITY_ISSUE
+Water won't drain. Technician found a loose hair clip blocking the drain pump impeller.,NON_QUALITY_ISSUE
+Intermittent power off. Loose power cable connector on the back of the machine.,QUALITY_ISSUE
+Machine makes a strange noise. Found a coin stuck in the small gap between the inner drum and the tub.,NON_QUALITY_ISSUE
+Drum is not rotating. Motor control board failed due to internal component overheating.,QUALITY_ISSUE
+Customer reports clothes are ripped. Found a nail inside the drum from construction debris.,NON_QUALITY_ISSUE
+Water leaks from the back. Technician found the shipping bolt holes were not properly capped.,QUALITY_ISSUE
+Clothes are too wrinkled. Customer leaves them in the drum for an entire day after the cycle finishes.,NON_QUALITY_ISSUE
+Heating element failed. Open circuit detected after 3 months of use.,QUALITY_ISSUE
+Customer complains of a smell. Advised on cleaning the area around the drain pump filter where water can collect.,NON_QUALITY_ISSUE
+Machine fills with cold water only. Hot water inlet valve solenoid is dead (coil open circuit).,QUALITY_ISSUE
+Drain hose is leaking at the standpipe. Customer failed to secure it with the provided retainer clip.,NON_QUALITY_ISSUE
+Loud clicking noise when unit fills. Inlet solenoid valve plunger is binding due to poor component tolerance.,QUALITY_ISSUE
+Customer reports water pressure is low. Found the water company is doing pipeline maintenance.,NON_QUALITY_ISSUE
+Drum bearing failure. Loud grinding and metal dust visible below the tub.,QUALITY_ISSUE
+Machine vibrates heavily. Found the unit was installed on an unstable platform/pedestal.,NON_QUALITY_ISSUE
+Error C9: Pressure switch failure. Switch is stuck at maximum level.,QUALITY_ISSUE
+"Clothes are still soapy. Customer used the 'Super Quick' cycle for a full, heavily soiled load.",NON_QUALITY_ISSUE
+Rust is visible on the inner drum lip after only 4 months. Poor material quality.,QUALITY_ISSUE
+Water won't drain. Technician found a large buildup of lint and hair blocking the drain path.,NON_QUALITY_ISSUE
+Loud grinding from the pump. Pump impeller is scraping the casing due to misalignment of the motor shaft.,QUALITY_ISSUE
+"Customer used excessive amounts of baking soda to clean the drum, clogging the drain pump.",NON_QUALITY_ISSUE
+Unit stops with error E40. Door lock plunger solenoid is internally seizing up.,QUALITY_ISSUE
+Clothes are still damp. Customer selected the 'Delicate' cycle with the lowest spin speed option.,NON_QUALITY_ISSUE
+Main PCB is dead. Visible burn mark near the power input inductor.,QUALITY_ISSUE
+Water leaks from the back during spin. Customer failed to tighten the water inlet hoses securely.,NON_QUALITY_ISSUE
+Drum is not rotating. Motor capacitor failed (shorted out).,QUALITY_ISSUE
+Clothes are too stiff. Advised customer on using a gentler tumble cycle for shirts.,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a flaw in the molding process causing a thin spot.,QUALITY_ISSUE
+Customer is confused about the spin speed options. Requested clarification on RPM settings.,NON_QUALITY_ISSUE
+Unit stops with error E32. Thermistor (temperature sensor) is reading 150°C when water is cold.,QUALITY_ISSUE
+"Drain hose is leaking profusely. Customer used excessive force when connecting the hose, cracking the plastic elbow.",NON_QUALITY_ISSUE
+Loud scraping during spin. Drum support bearing race is completely disintegrated.,QUALITY_ISSUE
+Machine is dead. Found the house power was out due to an external transformer failure.,NON_QUALITY_ISSUE
+Intermittent heating failure. Wiring harness to the thermistor is loose on the main PCB.,QUALITY_ISSUE
+Clothes are covered in lint. Customer does not separate darks and lights before washing.,NON_QUALITY_ISSUE
+Loud banging noise during spin. Broken drum counterweight mounting stud.,QUALITY_ISSUE
+Customer reports clothes are ripped. Found a zipper was caught in the door seal rubber.,NON_QUALITY_ISSUE
+Water is continuously filling. Inlet valve solenoid plunger is stuck open.,QUALITY_ISSUE
+"Water won't drain. Technician found a child's toy stuck in the drain filter, blocking flow.",NON_QUALITY_ISSUE
+Unit trips main breaker. Short circuit in the drain pump wiring harness insulation.,QUALITY_ISSUE
+Machine is shaking. Found a small level bubble was used and it was slightly off. Used professional level to correct.,NON_QUALITY_ISSUE
+Drum is scratching the stainless steel tub. Appears to be a spider/suspension arm breakage.,QUALITY_ISSUE
+Customer complains of a musty smell. Advised on cleaning the rubber door gasket and running a hot cycle.,NON_QUALITY_ISSUE
+Main PCB randomly resets. Poor quality filter capacitor on the power supply line.,QUALITY_ISSUE
+Clothes are still soapy. Customer used the 'Rinse Only' cycle for washing clothes instead of the full cycle.,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a cut from the factory trimming process.,QUALITY_ISSUE
+Customer is confused about the 'Detergent Ball' and put it in the wrong compartment.,NON_QUALITY_ISSUE
+Loud clicking noise when unit fills. Inlet solenoid valve plunger is binding due to poor component tolerance.,QUALITY_ISSUE
+Water won't fill. Technician found the mesh filter inside the fill valve completely blocked with dirt.,NON_QUALITY_ISSUE
+Heating element failed. Open circuit detected after 6 months. Premature failure due to poor quality material.,QUALITY_ISSUE
+Drain hose is leaking at the standpipe. Customer failed to secure it with the provided retainer clip.,NON_QUALITY_ISSUE
+Machine fills with cold water only. Hot water inlet valve solenoid is dead (coil open circuit).,QUALITY_ISSUE
+Customer reports high vibration. Found a large imbalance in the load (one wet rug).,NON_QUALITY_ISSUE
+Error F11: Communication loss between the main PCB and the CAN bus.,QUALITY_ISSUE
+Clothes are still damp. Customer selected the lowest spin speed setting (400 RPM).,NON_QUALITY_ISSUE
+Drum is not rotating. Motor control board MOSFET shorted out.,QUALITY_ISSUE
+"Machine is very loud. Customer installed it on an untreated concrete floor, amplifying noise.",NON_QUALITY_ISSUE
+Water leaks from the back. Technician found the fill valve was leaking onto the rear panel from a crack.,QUALITY_ISSUE
+"Customer used too much liquid detergent, leading to excessive suds and cycle time extension.",NON_QUALITY_ISSUE
+Loud metallic scrape during spin. Drum support bearing race is pitted and corroded.,QUALITY_ISSUE
+Customer reports water pressure is low. Found the water company is doing pipeline maintenance.,NON_QUALITY_ISSUE
+Unit stops with error E40. Door lock plunger solenoid is internally seizing up.,QUALITY_ISSUE
+Clothes are too wrinkled. Customer leaves them in the machine for hours after the cycle finishes.,NON_QUALITY_ISSUE
+Intermittent power off. Loose power cable connector on the back of the machine.,QUALITY_ISSUE
+Water won't drain. Technician found a piece of plastic packaging blocking the drain path.,NON_QUALITY_ISSUE
+Loud grinding from the pump. Pump impeller is scraping the casing due to misalignment of the motor shaft.,QUALITY_ISSUE
+Clothes are still soapy. Customer used high-foaming detergent in a front-loader machine.,NON_QUALITY_ISSUE
+Rust is visible on the inner drum lip after only 6 months of use. Poor material quality.,QUALITY_ISSUE
+"Machine is dead. Found a penny jammed in the main power switch, preventing it from latching.",NON_QUALITY_ISSUE
+Machine trips main breaker. Short in the motor winding insulation due to friction rub.,QUALITY_ISSUE
+Clothes are too stiff. Advised customer on using a gentler tumble cycle for shirts.,NON_QUALITY_ISSUE
+Water leaks from the drain pump connection. Casing joint not sealed correctly at factory.,QUALITY_ISSUE
+Customer reports clothes are ripped. Found a zipper was caught in the door seal rubber.,NON_QUALITY_ISSUE
+Error C9: Pressure switch failure. Switch is stuck at maximum level.,QUALITY_ISSUE
+Machine vibrates excessively. Found the installation surface is uneven stone tile.,NON_QUALITY_ISSUE
+Loud thumping noise during spin. Broken counterweight bolt snapped due to over-torquing during assembly.,QUALITY_ISSUE
+Clothes are covered in lint. Customer does not separate darks and lights before washing.,NON_QUALITY_ISSUE
+Unit stops with error E60. Technician confirmed the main processor chip on the PCB is overheating.,QUALITY_ISSUE
+Water won't drain. Technician found a large buildup of lint and hair blocking the drain path.,NON_QUALITY_ISSUE
+Water is continuously filling. Inlet valve solenoid plunger is stuck open.,QUALITY_ISSUE
+Customer reports power failure. Found the external power surge protector had tripped.,NON_QUALITY_ISSUE
+Loud scraping during wash. Drum support bearing race has corroded due to poor sealing.,QUALITY_ISSUE
+Machine is dead. Found the customer's remote-controlled outlet switch was turned off.,NON_QUALITY_ISSUE
+Drum is scratching the tub. Suspension rod snapped clean off during spin.,QUALITY_ISSUE
+Clothes are still damp. Customer only selected the lowest spin speed setting (400 RPM).,NON_QUALITY_ISSUE
+Intermittent heating failure. Heater relay on the PCB has intermittent failure (sticking).,QUALITY_ISSUE
+Customer complains of a smell. Advised on cleaning the area around the drain pump filter where water can collect.,NON_QUALITY_ISSUE
+Unit fails to turn on. The main power switch contacts are worn and not engaging reliably.,QUALITY_ISSUE
+Water leaks from the back during spin. Customer failed to tighten the water inlet hoses securely.,NON_QUALITY_ISSUE
+Water leaks from the door seal. Seal has a flaw/thin spot from the molding process.,QUALITY_ISSUE
+Machine vibrates heavily. Technician found the legs were installed unevenly and required manual adjustment.,NON_QUALITY_ISSUE
+Machine stops mid-cycle. Water level sensor cable is corroded and sending intermittent signals.,QUALITY_ISSUE
+Drain hose is leaking at the standpipe. Customer failed to secure it with the provided retainer clip.,NON_QUALITY_ISSUE
+Loud metallic squealing. Drum spider arm bearing race has completely failed.,QUALITY_ISSUE
+Clothes are still soapy. Customer used high-foaming detergent in a front-loader machine.,NON_QUALITY_ISSUE
